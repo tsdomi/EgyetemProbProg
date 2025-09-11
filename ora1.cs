@@ -132,6 +132,7 @@ namespace ConsoleApp1
             }
             */
 
+            /*
             //Feladat 9 
             Console.Write("Add meg az első számot: ");
             int szamElso = int.Parse(Console.ReadLine());
@@ -140,7 +141,7 @@ namespace ConsoleApp1
             Console.Write("Add meg a műveletet: ");
             string muvelet = Console.ReadLine();
             double eredmeny = 0;
-            switch(muvelet)
+            switch (muvelet)
             {
                 case "+":
                     eredmeny = szamElso + szamMasodik;
@@ -153,12 +154,16 @@ namespace ConsoleApp1
                     break;
                 case "/":
                     eredmeny = szamElso / szamMasodik;
-                    break;  
+                    break;
             }
             Console.WriteLine($"{szamElso} {muvelet} {szamMasodik} = {eredmeny}");
-        
+            */
+            
             //Feladat 11
-
+            Console.Write("Adj meg egy számot: ");
+            int szam = int.Parse(Console.ReadLine());
+            List<string> lsita = new List<string>() {"nulla", "egy", "ketto", "harom", "negy", "ot", "hat", "het", "nyolc", "kilenc" };
+            Console.WriteLine($"Az általad megadott szám: {lsita[szam]}");
         }
     }
 }
