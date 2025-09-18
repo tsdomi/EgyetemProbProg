@@ -226,6 +226,7 @@ namespace het2
             int tet = 1;
             int[] veletlen = new int[3];
             Random rnd = new Random();
+            Console.CursorVisible = false;
             do
             {
                 Console.SetCursorPosition(0,0);
@@ -233,7 +234,7 @@ namespace het2
                 ConsoleKeyInfo tmp = Console.ReadKey();
                 if (tmp.Key == ConsoleKey.UpArrow)
                 {
-                    if (tet<= kredit)
+                    if (tet< kredit)
                     {
                         tet++;
                     }
@@ -266,10 +267,14 @@ namespace het2
                     {
                         kredit += tet * 10;
                     }
+                    if (kredit < tet )
+                    {
+                        tet = kredit;
+                    }
                 }
 
             }
-            while (kredit>=0);
+            while (kredit>0);
         }
     }
 }
