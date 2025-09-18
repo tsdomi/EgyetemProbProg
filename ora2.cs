@@ -161,7 +161,7 @@ namespace het2
                 Console.WriteLine("Nem primszam");
             }
             */
-            
+
             /*
             //Feladat 7
             int N = int.Parse(Console.ReadLine());
@@ -192,7 +192,7 @@ namespace het2
             }
             */
 
-
+            /*
             //Feladat 9
             Console.Write("Masodperc: ");
             int second = int.Parse( Console.ReadLine() );
@@ -205,13 +205,71 @@ namespace het2
                 Console.SetCursorPosition(0,0);
                 second--;
             }
-            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+            Console.WriteLine("00:00");
             Console.BackgroundColor = ConsoleColor.Red;
             Console.Beep();
+            */
 
+            /*
             //Feladat 10
             int bemenet = 420;
             string kettes = "";
+            do
+            {
+                
+            } while (bemenet>1);
+            */
+
+            //Feladat 11
+            int kredit = 100;
+            int tet = 1;
+            int[] veletlen = new int[3];
+            Random rnd = new Random();
+            do
+            {
+                Console.SetCursorPosition(0,0);
+                Console.WriteLine($"Kredit: {kredit:00000}, Tet: {tet:000}");
+                ConsoleKeyInfo tmp = Console.ReadKey();
+                if (tmp.Key == ConsoleKey.UpArrow)
+                {
+                    if (tet<= kredit)
+                    {
+                        tet++;
+                    }
+                    
+                }
+                else if(tmp.Key == ConsoleKey.DownArrow)
+                {
+                    if (tet > 1)
+                    {
+                        tet--;
+                    }
+                }
+                else if(tmp.Key == ConsoleKey.Escape || kredit <= 0)
+                {
+                    break;
+                }
+                else if(tmp.Key == ConsoleKey.Spacebar)
+                {
+                    kredit = kredit - tet;
+                    veletlen[0] = rnd.Next(0, 10);
+                    veletlen[1] = rnd.Next(0, 10);
+                    veletlen[2] = rnd.Next(0, 10);
+                    Console.SetCursorPosition(0, 2);
+                    Console.WriteLine($"{veletlen[0]} : {veletlen[1]} : {veletlen[2]}");
+                    if (veletlen[0] == veletlen[1] && veletlen[1] == veletlen[2])
+                    {
+                        kredit += tet * 50;
+                    }
+                    else if (veletlen[0] == veletlen[1] || veletlen[0] == veletlen[2] || veletlen[1] == veletlen[2])
+                    {
+                        kredit += tet * 10;
+                    }
+                }
+
+            }
+            while (kredit>=0);
         }
     }
 }
