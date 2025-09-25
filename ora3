@@ -1,0 +1,288 @@
+using System.Data;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            //int[,] tobbdimenzios = new int[3, 7];
+            //int[,,,,,,,,,,,,,,,,,,,] ndimenzios;
+
+            //for (int i = 0; i < tobbdimenzios.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < tobbdimenzios.GetLength(1); j++)
+            //    {
+            //        tobbdimenzios[i, j] = i * j;
+            //    }
+            //}
+
+            //for (int i = 0; i < tobbdimenzios.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < tobbdimenzios.GetLength(1); j++)
+            //    {
+            //        Console.Write(tobbdimenzios[i, j] + ",");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //for (int i = 0; i < tobbdimenzios.GetLength(1); i++)
+            //{
+            //    for (int j = 0; j < tobbdimenzios.GetLength(0); j++)
+            //    {
+            //        Console.Write(tobbdimenzios[j, i] + ",");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //int[,] tobbdimenzio2 =
+            //{
+            //    {1, 2, 3 },
+            //    {4, 5, 6 },
+            //    {6, 7, 8 }
+            //};
+
+            //List<int> lista = new List<int>();
+            //lista.Add(1);
+            //lista.Add(2);
+            //lista.Add(3);
+
+            //Console.WriteLine(lista);
+            //for (int i = 0; i < lista.Count; i++)
+            //{
+            //    Console.WriteLine(lista[i]);
+            //}
+
+            //lista[0] = 9;
+            ////lista[99] = 10;
+
+            //List<int> lista2 = new List<int>() {1, 2, 3, 4, 5, 6 };
+            //List<int> lista3 = [1, 2, 3, 4, 5, 6 ];
+
+            //foreach (int elem in lista3)
+            //{
+            //    Console.WriteLine(elem);
+            //    //elem = 10
+            //}
+
+            //1 feladat
+            string[] types = { "Kőr", "Káró", "Treff", "Pikk" };
+            string[] numbers = new string[13];
+            for (int i = 2; i < 11; i++)
+            {
+                numbers[i - 2] = $"{i}";
+            }
+            numbers[9] = "Jumbó";
+            numbers[10] = "Dáma";
+            numbers[11] = "Király";
+            numbers[12] = "Ász";
+            string[] kartyak = new string[types.Length*numbers.Length];
+            for (int i = 0; i < kartyak.Length; i++)
+            {
+                kartyak[i] = $"{types[i / 13]} {numbers[i % 13]}";
+            }
+
+            int k = 0;
+            string[] pakli = new string[types.Length*numbers.Length];
+            for (int i = 0; i < types.Length ; i++)
+            {
+                for (int j = 0; j < numbers.Length; j++)
+                {
+                    pakli[k++] = $"{types[i]} {numbers[j]}";
+                }
+            }
+            //foreach (var item in pakli)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //foreach (var item in kartyak)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //2 Feladat
+            Random rnd = new Random();
+            for (int i = 0; i < kartyak.Length; i++)
+            {
+                int j = rnd.Next(i, kartyak.Length);
+                string tmp = kartyak[j];
+                kartyak[j] = kartyak[i];
+                kartyak[i] = tmp;
+            }
+            //foreach (var item in kartyak)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //3 Feladat
+            //int darabSzo = 3;
+            //string[] szavak = new string[darabSzo];
+            //for (int i = 0; i < szavak.Length; i++)
+            //{
+            //    szavak[i] = Console.ReadLine();
+            //}
+            //string ujSzo = Console.ReadLine();
+            //if (szavak.Contains(ujSzo))
+            //{
+            //    Console.WriteLine("Benne van");
+            //    int hol=0;
+            //    for (int i = 0; i < szavak.Length; i++)
+            //    {
+            //        if (szavak[i] == ujSzo)
+            //        {
+            //            hol = i;
+            //            break;
+            //        }
+            //    }
+            //    Console.WriteLine($"Az elem van a {hol+1} helyen");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Nincs benne");
+            //}
+
+            //4 Feladat
+            //List<string> szavak = new List<string>();
+            //string ujszo = "";
+            //while (ujszo != "STOP")
+            //{
+            //    ujszo = Console.ReadLine();
+            //    if (ujszo!= "STOP")
+            //    {
+            //        szavak.Add(ujszo);
+            //    }
+            //}
+            //ujszo = Console.ReadLine();
+            //if (szavak.Contains(ujszo))
+            //{
+            //    Console.WriteLine("Benne van");
+            //    int hol = 0;
+            //    for (int i = 0; i < szavak.Count; i++)
+            //    {
+            //        if (szavak[i] == ujszo)
+            //        {
+            //            hol = i;
+            //            break;
+            //        }
+            //    }
+            //    Console.WriteLine($"Az elem van a {hol + 1} helyen");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Nincs benne");
+            //}
+
+            //5 Feladat
+            List<string> nev = ["Bela", "Sanyi", "Gizi", "eva", "gabi"];
+            List<int> eletkor = [18, 25, 33, 29, 40];
+            List<bool> tapasztalat = [true, false, true, true, false];
+            
+            //while (true)
+            //{
+            //    string adat = Console.ReadLine();
+            //    if (adat == "")
+            //    {
+            //        break;
+            //    }
+            //    else
+            //    {
+            //        nev.Add(adat);
+            //    }
+            //    eletkor.Add(int.Parse(Console.ReadLine()));
+            //    tapasztalat.Add(bool.Parse(Console.ReadLine()));
+            //}
+            int eletkorOsszeg = 0;
+
+            foreach (var item in eletkor)
+            {
+                eletkorOsszeg += item;
+            }
+            Console.WriteLine($"Atlag eletkor: {(double)eletkorOsszeg/eletkor.Count}");
+
+            eletkorOsszeg = 0;
+            int darab = 0;
+            for (int i = 0; i < eletkor.Count; i++)
+            {
+                if (tapasztalat[i] == false)
+                {
+                    eletkorOsszeg += eletkor[i];
+                    darab++;
+                }
+            }
+            Console.WriteLine($"Atlag eletkor: {(double)eletkorOsszeg / darab}");
+
+            int hol = -1;
+            for (int i = 0; i < tapasztalat.Count; i++)
+            {
+                if (tapasztalat[i] && (hol == -1 || eletkor[hol] < eletkor[i]))
+                {
+                    hol = i;
+                }
+            }
+            Console.WriteLine($"{eletkor[hol]} {nev[hol]}");
+
+            //6 Feladat
+            //Random rnd = new Random();
+            //int N = 3;
+            //int M = 4;
+            //int[,] tombMatrix = new int[N,M];
+            //for (int i = 0; i < tombMatrix.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < tombMatrix.GetLength(1); j++)
+            //    {
+            //        tombMatrix[i, j] = rnd.Next(1, 10);
+            //    }
+            //}
+            //for (int i = 0; i < tombMatrix.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < tombMatrix.GetLength(1); j++)
+            //    {
+            //        Console.Write($"{tombMatrix[i,j]} ");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //Console.WriteLine();
+            //for (int i = 0; i < tombMatrix.GetLength(1); i++)
+            //{
+            //    for (int j = 0; j < tombMatrix.GetLength(0); j++)
+            //    {
+            //        Console.Write($"{tombMatrix[j, i]} ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //Feladat 7
+
+            //Feladat 8
+            //int N = int.Parse(Console.ReadLine());
+            //List<int> list = new List<int>() { N };
+            //while (list[list.Count - 1] != 1)
+            //{
+            //    if (list[list.Count-1]%2 == 0)
+            //    {
+            //        list.Add(list[list.Count-1]/2);
+            //    }
+            //    else
+            //    {
+            //        list.Add(list[list.Count - 1] * 3 + 1);
+            //    }
+            //}
+
+            //Feladat 9
+            //F10 debug next line
+            int[] x = { 1, 2, 3, 4, 5, 6, 7, 8 };
+            for (int i = 0; i < x.Length/2; i++)
+            {
+                int tmp = x[i];
+                x[i] = x[x.Length - i - 1];
+                x[x.Length - i-1] = tmp;
+            }
+
+            foreach (var item in x)
+            {
+                Console.Write($"{item}, ");
+            }
+        }
+    }
+}
