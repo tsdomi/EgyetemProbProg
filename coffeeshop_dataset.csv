@@ -1,0 +1,3548 @@
+CoffeeName;Price;TimeOfDay;Weekday;MonthName
+Latte;38,7;Morning;Fri;Mar
+Hot Chocolate;38,7;Afternoon;Fri;Mar
+Hot Chocolate;38,7;Afternoon;Fri;Mar
+Americano;28,9;Afternoon;Fri;Mar
+Latte;38,7;Afternoon;Fri;Mar
+Americano with Milk;33,8;Afternoon;Fri;Mar
+Hot Chocolate;38,7;Afternoon;Fri;Mar
+Americano with Milk;33,8;Night;Fri;Mar
+Cocoa;38,7;Night;Fri;Mar
+Americano with Milk;33,8;Night;Fri;Mar
+Americano with Milk;33,8;Night;Fri;Mar
+Americano;28,9;Morning;Sat;Mar
+Americano with Milk;33,8;Morning;Sat;Mar
+Americano with Milk;33,8;Morning;Sat;Mar
+Americano;28,9;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Americano;28,9;Night;Sat;Mar
+Latte;38,7;Morning;Sun;Mar
+Cortado;28,9;Morning;Sun;Mar
+Americano;28,9;Afternoon;Sun;Mar
+Hot Chocolate;38,7;Afternoon;Sun;Mar
+Cocoa;38,7;Night;Sun;Mar
+Cortado;28,9;Night;Sun;Mar
+Americano with Milk;33,8;Night;Sun;Mar
+Americano with Milk;33,8;Night;Sun;Mar
+Hot Chocolate;38,7;Night;Sun;Mar
+Latte;38,7;Morning;Mon;Mar
+Latte;38,7;Morning;Mon;Mar
+Americano with Milk;33,8;Morning;Mon;Mar
+Espresso;24;Afternoon;Mon;Mar
+Latte;38,7;Morning;Tue;Mar
+Latte;38,7;Afternoon;Tue;Mar
+Latte;38,7;Night;Tue;Mar
+Hot Chocolate;38,7;Night;Tue;Mar
+Cocoa;38,7;Night;Tue;Mar
+Hot Chocolate;38,7;Night;Tue;Mar
+Hot Chocolate;38,7;Night;Tue;Mar
+Cortado;28,9;Night;Tue;Mar
+Hot Chocolate;38,7;Night;Tue;Mar
+Americano;28,9;Afternoon;Wed;Mar
+Cortado;28,9;Afternoon;Wed;Mar
+Cappuccino;38,7;Afternoon;Wed;Mar
+Cappuccino;38,7;Afternoon;Wed;Mar
+Hot Chocolate;38,7;Morning;Thu;Mar
+Latte;38,7;Morning;Thu;Mar
+Americano;28,9;Afternoon;Thu;Mar
+Americano with Milk;33,8;Afternoon;Thu;Mar
+Cortado;28,9;Morning;Fri;Mar
+Cappuccino;38,7;Afternoon;Fri;Mar
+Americano;28,9;Afternoon;Fri;Mar
+Americano;28,9;Afternoon;Fri;Mar
+Americano;28,9;Afternoon;Fri;Mar
+Americano with Milk;33,8;Afternoon;Fri;Mar
+Latte;38,7;Night;Fri;Mar
+Latte;38,7;Night;Fri;Mar
+Espresso;24;Afternoon;Sat;Mar
+Americano;28,9;Afternoon;Sat;Mar
+Cappuccino;38,7;Afternoon;Sat;Mar
+Americano;28,9;Afternoon;Sat;Mar
+Americano;28,9;Afternoon;Sat;Mar
+Latte;38,7;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Cortado;28,9;Afternoon;Sat;Mar
+Cappuccino;38,7;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Hot Chocolate;38,7;Afternoon;Sat;Mar
+Cappuccino;38,7;Night;Sat;Mar
+Hot Chocolate;38,7;Night;Sat;Mar
+Espresso;24;Morning;Sun;Mar
+Latte;38,7;Night;Sun;Mar
+Cortado;28,9;Night;Sun;Mar
+Cappuccino;38,7;Morning;Mon;Mar
+Americano;28,9;Afternoon;Mon;Mar
+Latte;38,7;Afternoon;Mon;Mar
+Cortado;28,9;Afternoon;Mon;Mar
+Americano;28,9;Morning;Tue;Mar
+Cortado;28,9;Morning;Tue;Mar
+Hot Chocolate;38,7;Morning;Tue;Mar
+Americano with Milk;33,8;Afternoon;Tue;Mar
+Americano;28,9;Afternoon;Tue;Mar
+Americano;28,9;Afternoon;Tue;Mar
+Hot Chocolate;38,7;Morning;Wed;Mar
+Americano;28,9;Morning;Wed;Mar
+Americano;28,9;Afternoon;Wed;Mar
+Americano;28,9;Afternoon;Wed;Mar
+Americano with Milk;33,8;Afternoon;Wed;Mar
+Espresso;24;Afternoon;Wed;Mar
+Espresso;24;Afternoon;Wed;Mar
+Espresso;24;Afternoon;Wed;Mar
+Latte;38,7;Morning;Thu;Mar
+Hot Chocolate;38,7;Morning;Thu;Mar
+Cortado;28,9;Afternoon;Thu;Mar
+Americano;28,9;Afternoon;Thu;Mar
+Americano with Milk;33,8;Afternoon;Thu;Mar
+Espresso;24;Afternoon;Thu;Mar
+Latte;38,7;Afternoon;Thu;Mar
+Americano with Milk;33,8;Afternoon;Thu;Mar
+Espresso;24;Afternoon;Thu;Mar
+Hot Chocolate;38,7;Night;Thu;Mar
+Cortado;28,9;Night;Thu;Mar
+Hot Chocolate;38,7;Morning;Fri;Mar
+Americano;28,9;Night;Fri;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Americano;28,9;Afternoon;Sat;Mar
+Cortado;28,9;Afternoon;Sat;Mar
+Cortado;28,9;Afternoon;Sat;Mar
+Cortado;28,9;Afternoon;Sat;Mar
+Americano with Milk;33,8;Night;Sat;Mar
+Cortado;28,9;Afternoon;Sun;Mar
+Cortado;28,9;Morning;Mon;Mar
+Americano;28,9;Afternoon;Mon;Mar
+Americano;28,9;Afternoon;Mon;Mar
+Americano;28,9;Afternoon;Mon;Mar
+Latte;38,7;Afternoon;Tue;Mar
+Latte;38,7;Afternoon;Tue;Mar
+Hot Chocolate;38,7;Afternoon;Tue;Mar
+Americano with Milk;33,8;Afternoon;Tue;Mar
+Cortado;28,9;Morning;Wed;Mar
+Cortado;28,9;Afternoon;Wed;Mar
+Cappuccino;38,7;Afternoon;Wed;Mar
+Cocoa;38,7;Afternoon;Wed;Mar
+Latte;38,7;Night;Wed;Mar
+Cortado;28,9;Afternoon;Thu;Mar
+Cappuccino;38,7;Afternoon;Thu;Mar
+Cortado;28,9;Night;Thu;Mar
+Latte;38,7;Night;Thu;Mar
+Americano with Milk;33,8;Morning;Fri;Mar
+Americano with Milk;33,8;Afternoon;Fri;Mar
+Americano;28,9;Night;Fri;Mar
+Espresso;24;Night;Fri;Mar
+Americano;28,9;Night;Fri;Mar
+Latte;38,7;Morning;Sat;Mar
+Americano with Milk;33,8;Morning;Sat;Mar
+Cappuccino;38,7;Afternoon;Sat;Mar
+Cocoa;38,7;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Latte;38,7;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Cortado;28,9;Afternoon;Sat;Mar
+Latte;38,7;Night;Sun;Mar
+Latte;38,7;Morning;Mon;Mar
+Latte;38,7;Afternoon;Mon;Mar
+Latte;38,7;Afternoon;Mon;Mar
+Americano with Milk;33,8;Night;Mon;Mar
+Cappuccino;38,7;Night;Mon;Mar
+Cocoa;38,7;Morning;Tue;Mar
+Latte;38,7;Morning;Tue;Mar
+Latte;38,7;Morning;Tue;Mar
+Cortado;28,9;Morning;Tue;Mar
+Americano;28,9;Afternoon;Tue;Mar
+Cortado;28,9;Afternoon;Tue;Mar
+Cortado;28,9;Afternoon;Tue;Mar
+Americano;28,9;Afternoon;Tue;Mar
+Latte;38,7;Afternoon;Tue;Mar
+Latte;38,7;Night;Tue;Mar
+Hot Chocolate;38,7;Night;Tue;Mar
+Cortado;28,9;Morning;Wed;Mar
+Americano with Milk;33,8;Morning;Wed;Mar
+Americano with Milk;33,8;Afternoon;Wed;Mar
+Hot Chocolate;38,7;Afternoon;Wed;Mar
+Cappuccino;38,7;Afternoon;Wed;Mar
+Americano;28,9;Afternoon;Wed;Mar
+Cortado;28,9;Night;Wed;Mar
+Cortado;28,9;Afternoon;Thu;Mar
+Cortado;28,9;Night;Thu;Mar
+Americano;28,9;Night;Thu;Mar
+Latte;38,7;Night;Thu;Mar
+Latte;38,7;Morning;Fri;Mar
+Cappuccino;38,7;Afternoon;Fri;Mar
+Cappuccino;38,7;Afternoon;Fri;Mar
+Latte;38,7;Morning;Sat;Mar
+Latte;38,7;Afternoon;Sat;Mar
+Latte;38,7;Afternoon;Sat;Mar
+Americano with Milk;33,8;Afternoon;Sat;Mar
+Cappuccino;38,7;Morning;Sun;Mar
+Americano;28,9;Morning;Mon;Apr
+Americano with Milk;33,8;Morning;Mon;Apr
+Americano with Milk;33,8;Morning;Mon;Apr
+Americano with Milk;33,8;Morning;Mon;Apr
+Americano with Milk;33,8;Night;Mon;Apr
+Hot Chocolate;38,7;Night;Mon;Apr
+Latte;38,7;Morning;Tue;Apr
+Americano;28,9;Afternoon;Tue;Apr
+Cortado;28,9;Afternoon;Tue;Apr
+Cortado;28,9;Morning;Wed;Apr
+Americano;28,9;Morning;Wed;Apr
+Cappuccino;38,7;Afternoon;Wed;Apr
+Latte;38,7;Morning;Thu;Apr
+Latte;38,7;Morning;Thu;Apr
+Cappuccino;38,7;Morning;Thu;Apr
+Cortado;28,9;Afternoon;Thu;Apr
+Americano;28,9;Morning;Fri;Apr
+Americano;28,9;Morning;Fri;Apr
+Cortado;28,9;Morning;Fri;Apr
+Americano with Milk;33,8;Afternoon;Fri;Apr
+Latte;38,7;Afternoon;Fri;Apr
+Cortado;28,9;Afternoon;Fri;Apr
+Espresso;24;Afternoon;Fri;Apr
+Americano with Milk;33,8;Afternoon;Sat;Apr
+Cappuccino;38,7;Afternoon;Sat;Apr
+Americano;28,9;Afternoon;Sat;Apr
+Latte;38,7;Afternoon;Sat;Apr
+Latte;38,7;Morning;Sun;Apr
+Cappuccino;38,7;Afternoon;Sun;Apr
+Cappuccino;38,7;Afternoon;Sun;Apr
+Cortado;28,9;Afternoon;Sun;Apr
+Espresso;24;Afternoon;Sun;Apr
+Hot Chocolate;38,7;Night;Sun;Apr
+Americano with Milk;33,8;Night;Sun;Apr
+Americano with Milk;33,8;Morning;Mon;Apr
+Cappuccino;38,7;Morning;Mon;Apr
+Americano;28,9;Morning;Mon;Apr
+Cappuccino;38,7;Morning;Mon;Apr
+Latte;38,7;Afternoon;Mon;Apr
+Americano;28,9;Night;Mon;Apr
+Americano with Milk;33,8;Night;Mon;Apr
+Cappuccino;38,7;Night;Mon;Apr
+Latte;38,7;Morning;Tue;Apr
+Hot Chocolate;38,7;Afternoon;Tue;Apr
+Hot Chocolate;38,7;Night;Tue;Apr
+Espresso;24;Night;Wed;Apr
+Cappuccino;38,7;Night;Wed;Apr
+Latte;38,7;Night;Wed;Apr
+Americano;28,9;Morning;Thu;Apr
+Americano;28,9;Morning;Thu;Apr
+Latte;38,7;Afternoon;Thu;Apr
+Cappuccino;38,7;Night;Thu;Apr
+Americano with Milk;33,8;Night;Thu;Apr
+Hot Chocolate;38,7;Night;Fri;Apr
+Cortado;28,9;Night;Fri;Apr
+Latte;38,7;Afternoon;Sat;Apr
+Americano;28,9;Afternoon;Sat;Apr
+Cappuccino;38,7;Afternoon;Sat;Apr
+Latte;38,7;Afternoon;Sat;Apr
+Cappuccino;38,7;Night;Sat;Apr
+Cappuccino;38,7;Night;Sat;Apr
+Cappuccino;38,7;Afternoon;Sun;Apr
+Cortado;28,9;Afternoon;Sun;Apr
+Americano;28,9;Afternoon;Sun;Apr
+Americano;28,9;Afternoon;Sun;Apr
+Americano;28,9;Afternoon;Sun;Apr
+Cappuccino;38,7;Afternoon;Sun;Apr
+Cortado;28,9;Afternoon;Sun;Apr
+Latte;38,7;Night;Sun;Apr
+Cappuccino;38,7;Night;Sun;Apr
+Americano;28,9;Morning;Mon;Apr
+Americano;28,9;Night;Mon;Apr
+Americano with Milk;33,8;Night;Mon;Apr
+Americano with Milk;33,8;Night;Mon;Apr
+Americano with Milk;33,8;Morning;Tue;Apr
+Cocoa;38,7;Afternoon;Tue;Apr
+Cortado;28,9;Afternoon;Tue;Apr
+Americano;28,9;Afternoon;Tue;Apr
+Americano with Milk;33,8;Night;Tue;Apr
+Cappuccino;38,7;Night;Tue;Apr
+Cocoa;38,7;Night;Tue;Apr
+Americano;28,9;Afternoon;Wed;Apr
+Espresso;24;Afternoon;Wed;Apr
+Cappuccino;38,7;Night;Wed;Apr
+Cappuccino;38,7;Night;Wed;Apr
+Cortado;28,9;Night;Wed;Apr
+Americano;28,9;Morning;Thu;Apr
+Americano;28,9;Morning;Thu;Apr
+Americano with Milk;33,8;Afternoon;Thu;Apr
+Cortado;28,9;Afternoon;Thu;Apr
+Cappuccino;38,7;Afternoon;Thu;Apr
+Latte;38,7;Afternoon;Thu;Apr
+Latte;38,7;Night;Thu;Apr
+Cappuccino;38,7;Night;Thu;Apr
+Hot Chocolate;38,7;Night;Thu;Apr
+Hot Chocolate;38,7;Night;Thu;Apr
+Latte;38,7;Morning;Fri;Apr
+Americano with Milk;33,8;Afternoon;Fri;Apr
+Cappuccino;38,7;Afternoon;Fri;Apr
+Hot Chocolate;38,7;Afternoon;Fri;Apr
+Cappuccino;38,7;Afternoon;Fri;Apr
+Cocoa;38,7;Night;Fri;Apr
+Americano with Milk;33,8;Night;Fri;Apr
+Americano with Milk;33,8;Afternoon;Sat;Apr
+Americano with Milk;33,8;Afternoon;Sat;Apr
+Americano;28,9;Afternoon;Sat;Apr
+Americano with Milk;33,8;Afternoon;Sat;Apr
+Hot Chocolate;38,7;Afternoon;Sat;Apr
+Cappuccino;38,7;Afternoon;Sat;Apr
+Americano with Milk;33,8;Afternoon;Sat;Apr
+Americano with Milk;32,82;Afternoon;Sat;Apr
+Americano with Milk;32,82;Afternoon;Sat;Apr
+Cappuccino;37,72;Night;Sat;Apr
+Cappuccino;37,72;Night;Sat;Apr
+Latte;37,72;Night;Sat;Apr
+Latte;37,72;Morning;Sun;Apr
+Americano;27,92;Afternoon;Sun;Apr
+Americano;27,92;Morning;Mon;Apr
+Americano with Milk;32,82;Morning;Mon;Apr
+Latte;37,72;Night;Mon;Apr
+Cappuccino;37,72;Afternoon;Tue;Apr
+Americano with Milk;32,82;Afternoon;Tue;Apr
+Cappuccino;37,72;Afternoon;Tue;Apr
+Americano with Milk;32,82;Night;Tue;Apr
+Americano with Milk;32,82;Night;Tue;Apr
+Latte;37,72;Morning;Wed;Apr
+Americano with Milk;32,82;Morning;Wed;Apr
+Americano with Milk;32,82;Morning;Wed;Apr
+Americano with Milk;32,82;Morning;Wed;Apr
+Americano with Milk;32,82;Afternoon;Wed;Apr
+Americano with Milk;32,82;Afternoon;Wed;Apr
+Americano with Milk;32,82;Night;Wed;Apr
+Cappuccino;37,72;Night;Wed;Apr
+Americano;27,92;Morning;Thu;Apr
+Latte;37,72;Afternoon;Thu;Apr
+Americano;27,92;Night;Thu;Apr
+Americano;27,92;Night;Thu;Apr
+Latte;37,72;Morning;Fri;Apr
+Latte;37,72;Afternoon;Fri;Apr
+Cappuccino;37,72;Afternoon;Fri;Apr
+Americano;27,92;Afternoon;Fri;Apr
+Americano;27,92;Afternoon;Fri;Apr
+Cortado;27,92;Afternoon;Fri;Apr
+Americano;27,92;Afternoon;Fri;Apr
+Hot Chocolate;37,72;Night;Fri;Apr
+Cocoa;37,72;Night;Fri;Apr
+Cappuccino;37,72;Afternoon;Sat;Apr
+Latte;37,72;Morning;Sun;Apr
+Cappuccino;37,72;Afternoon;Sun;Apr
+Americano;27,92;Night;Sun;Apr
+Americano;27,92;Night;Sun;Apr
+Latte;37,72;Night;Sun;Apr
+Cortado;27,92;Morning;Mon;Apr
+Americano;27,92;Afternoon;Mon;Apr
+Cortado;27,92;Afternoon;Mon;Apr
+Cortado;27,92;Afternoon;Mon;Apr
+Americano with Milk;32,82;Afternoon;Mon;Apr
+Cappuccino;37,72;Night;Mon;Apr
+Cappuccino;37,72;Night;Mon;Apr
+Cappuccino;37,72;Night;Mon;Apr
+Latte;37,72;Morning;Tue;Apr
+Americano with Milk;32,82;Morning;Tue;Apr
+Americano with Milk;32,82;Morning;Tue;Apr
+Americano;27,92;Afternoon;Tue;Apr
+Americano with Milk;32,82;Afternoon;Tue;Apr
+Cappuccino;37,72;Night;Tue;Apr
+Americano with Milk;32,82;Night;Tue;Apr
+Latte;37,72;Night;Tue;Apr
+Americano;27,92;Morning;Thu;May
+Americano with Milk;32,82;Afternoon;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Americano with Milk;32,82;Night;Thu;May
+Latte;37,72;Night;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Latte;37,72;Afternoon;Fri;May
+Latte;37,72;Night;Fri;May
+Americano;27,92;Morning;Mon;May
+Cappuccino;37,72;Morning;Mon;May
+Americano with Milk;32,82;Morning;Mon;May
+Americano;27,92;Morning;Mon;May
+Cortado;27,92;Morning;Mon;May
+Cortado;27,92;Afternoon;Mon;May
+Americano;27,92;Afternoon;Mon;May
+Cappuccino;37,72;Night;Mon;May
+Cappuccino;37,72;Night;Mon;May
+Cocoa;37,72;Morning;Tue;May
+Cortado;27,92;Morning;Tue;May
+Cortado;27,92;Afternoon;Tue;May
+Cocoa;37,72;Afternoon;Tue;May
+Americano;27,92;Afternoon;Tue;May
+Cappuccino;37,72;Night;Tue;May
+Latte;37,72;Night;Tue;May
+Cappuccino;37,72;Night;Tue;May
+Cappuccino;37,72;Night;Tue;May
+Latte;37,72;Morning;Wed;May
+Cappuccino;37,72;Afternoon;Thu;May
+Americano;27,92;Afternoon;Thu;May
+Latte;37,72;Afternoon;Thu;May
+Latte;37,72;Afternoon;Thu;May
+Latte;37,72;Afternoon;Thu;May
+Americano;27,92;Afternoon;Thu;May
+Americano;27,92;Afternoon;Thu;May
+Americano;27,92;Night;Thu;May
+Americano with Milk;32,82;Night;Thu;May
+Latte;37,72;Afternoon;Fri;May
+Latte;37,72;Afternoon;Fri;May
+Latte;37,72;Morning;Sat;May
+Americano with Milk;32,82;Night;Sat;May
+Cocoa;37,72;Night;Sat;May
+Cappuccino;37,72;Night;Sat;May
+Americano with Milk;32,82;Night;Sat;May
+Cappuccino;37,72;Night;Sat;May
+Latte;37,72;Night;Sat;May
+Latte;37,72;Morning;Sun;May
+Latte;37,72;Afternoon;Sun;May
+Americano;27,92;Afternoon;Sun;May
+Latte;37,72;Afternoon;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Americano with Milk;32,82;Night;Sun;May
+Americano with Milk;32,82;Morning;Mon;May
+Americano;27,92;Morning;Tue;May
+Americano;27,92;Morning;Tue;May
+Americano;27,92;Morning;Tue;May
+Cappuccino;37,72;Morning;Tue;May
+Latte;37,72;Morning;Tue;May
+Cappuccino;37,72;Morning;Tue;May
+Cappuccino;37,72;Afternoon;Tue;May
+Americano with Milk;32,82;Afternoon;Tue;May
+Americano;27,92;Afternoon;Tue;May
+Americano with Milk;32,82;Afternoon;Tue;May
+Cappuccino;37,72;Afternoon;Tue;May
+Hot Chocolate;37,72;Night;Tue;May
+Latte;37,72;Morning;Wed;May
+Espresso;23,02;Morning;Wed;May
+Americano;27,92;Morning;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Americano with Milk;32,82;Afternoon;Wed;May
+Cortado;27,92;Afternoon;Wed;May
+Cortado;27,92;Afternoon;Wed;May
+Espresso;23,02;Night;Wed;May
+Cappuccino;37,72;Night;Wed;May
+Americano with Milk;32,82;Morning;Thu;May
+Americano with Milk;32,82;Morning;Thu;May
+Americano with Milk;32,82;Afternoon;Thu;May
+Hot Chocolate;37,72;Afternoon;Thu;May
+Latte;37,72;Night;Thu;May
+Hot Chocolate;37,72;Night;Thu;May
+Latte;37,72;Night;Thu;May
+Americano;27,92;Morning;Fri;May
+Americano with Milk;32,82;Morning;Fri;May
+Americano with Milk;32,82;Night;Fri;May
+Cappuccino;37,72;Night;Fri;May
+Cappuccino;37,72;Night;Fri;May
+Americano;27,92;Night;Fri;May
+Latte;37,72;Night;Fri;May
+Latte;37,72;Night;Fri;May
+Cappuccino;37,72;Morning;Sat;May
+Cappuccino;37,72;Morning;Sat;May
+Americano with Milk;32,82;Morning;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano with Milk;32,82;Night;Sat;May
+Latte;37,72;Night;Sat;May
+Americano;27,92;Morning;Sun;May
+Americano;27,92;Morning;Sun;May
+Cappuccino;37,72;Morning;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Americano;27,92;Afternoon;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Americano with Milk;32,82;Night;Sun;May
+Espresso;23,02;Night;Sun;May
+Hot Chocolate;37,72;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Americano with Milk;32,82;Morning;Mon;May
+Latte;37,72;Morning;Mon;May
+Latte;37,72;Morning;Mon;May
+Americano;27,92;Morning;Mon;May
+Americano;27,92;Morning;Mon;May
+Americano;27,92;Afternoon;Mon;May
+Americano;27,92;Afternoon;Mon;May
+Americano with Milk;32,82;Afternoon;Mon;May
+Cappuccino;37,72;Afternoon;Mon;May
+Latte;37,72;Night;Mon;May
+Latte;37,72;Night;Mon;May
+Americano with Milk;32,82;Night;Mon;May
+Cocoa;37,72;Night;Mon;May
+Cortado;27,92;Night;Mon;May
+Americano with Milk;32,82;Night;Mon;May
+Americano with Milk;32,82;Night;Mon;May
+Latte;37,72;Morning;Tue;May
+Latte;37,72;Afternoon;Tue;May
+Espresso;23,02;Night;Tue;May
+Cappuccino;37,72;Night;Tue;May
+Cappuccino;37,72;Night;Tue;May
+Cappuccino;37,72;Morning;Wed;May
+Americano with Milk;32,82;Morning;Wed;May
+Cortado;27,92;Morning;Wed;May
+Americano with Milk;32,82;Morning;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Americano with Milk;32,82;Afternoon;Wed;May
+Cappuccino;37,72;Night;Wed;May
+Cappuccino;37,72;Night;Wed;May
+Hot Chocolate;37,72;Night;Wed;May
+Cappuccino;37,72;Night;Wed;May
+Cappuccino;37,72;Morning;Thu;May
+Espresso;23,02;Afternoon;Thu;May
+Cappuccino;37,72;Afternoon;Thu;May
+Cappuccino;37,72;Afternoon;Thu;May
+Cappuccino;37,72;Afternoon;Thu;May
+Latte;37,72;Afternoon;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Latte;37,72;Night;Thu;May
+Cortado;27,92;Night;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Latte;37,72;Night;Thu;May
+Americano with Milk;32,82;Night;Thu;May
+Cortado;27,92;Morning;Fri;May
+Americano;27,92;Morning;Fri;May
+Americano;27,92;Morning;Fri;May
+Hot Chocolate;37,72;Afternoon;Fri;May
+Cortado;27,92;Night;Fri;May
+Cortado;27,92;Night;Fri;May
+Americano with Milk;32,82;Night;Fri;May
+Latte;37,72;Afternoon;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano with Milk;32,82;Afternoon;Sat;May
+Americano;27,92;Afternoon;Sat;May
+Latte;37,72;Morning;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Cortado;27,92;Afternoon;Sun;May
+Americano with Milk;32,82;Afternoon;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Hot Chocolate;37,72;Night;Sun;May
+Hot Chocolate;37,72;Night;Sun;May
+Americano;27,92;Night;Sun;May
+Latte;37,72;Night;Sun;May
+Hot Chocolate;37,72;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Cortado;27,92;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Latte;37,72;Night;Sun;May
+Cappuccino;37,72;Night;Sun;May
+Americano;27,92;Morning;Mon;May
+Americano with Milk;32,82;Afternoon;Mon;May
+Cocoa;37,72;Afternoon;Mon;May
+Americano;27,92;Afternoon;Mon;May
+Americano;27,92;Afternoon;Mon;May
+Latte;37,72;Night;Mon;May
+Americano;27,92;Night;Mon;May
+Latte;37,72;Night;Mon;May
+Latte;37,72;Night;Mon;May
+Americano with Milk;32,82;Night;Mon;May
+Cappuccino;37,72;Night;Mon;May
+Americano with Milk;32,82;Morning;Tue;May
+Americano with Milk;32,82;Morning;Tue;May
+Cappuccino;37,72;Morning;Tue;May
+Cappuccino;37,72;Afternoon;Tue;May
+Cocoa;37,72;Afternoon;Tue;May
+Cortado;27,92;Afternoon;Tue;May
+Americano;27,92;Night;Tue;May
+Latte;37,72;Night;Tue;May
+Americano with Milk;32,82;Night;Tue;May
+Americano;27,92;Night;Tue;May
+Latte;37,72;Morning;Wed;May
+Hot Chocolate;37,72;Morning;Wed;May
+Americano;27,92;Afternoon;Wed;May
+Latte;37,72;Afternoon;Wed;May
+Cappuccino;37,72;Afternoon;Wed;May
+Latte;37,72;Afternoon;Wed;May
+Cortado;27,92;Night;Wed;May
+Latte;37,72;Night;Wed;May
+Hot Chocolate;37,72;Night;Wed;May
+Cocoa;37,72;Night;Wed;May
+Cappuccino;37,72;Morning;Thu;May
+Latte;37,72;Morning;Thu;May
+Americano with Milk;32,82;Morning;Thu;May
+Latte;37,72;Morning;Thu;May
+Americano with Milk;32,82;Afternoon;Thu;May
+Espresso;23,02;Afternoon;Thu;May
+Espresso;23,02;Afternoon;Thu;May
+Cappuccino;37,72;Night;Thu;May
+Latte;37,72;Night;Thu;May
+Hot Chocolate;37,72;Night;Thu;May
+Americano with Milk;32,82;Night;Thu;May
+Americano with Milk;32,82;Morning;Fri;May
+Latte;37,72;Morning;Fri;May
+Hot Chocolate;37,72;Morning;Fri;May
+Cocoa;37,72;Morning;Fri;May
+Americano with Milk;32,82;Afternoon;Fri;May
+Latte;37,72;Night;Fri;May
+Latte;37,72;Night;Fri;May
+Cappuccino;37,72;Night;Fri;May
+Americano with Milk;32,82;Night;Fri;May
+Latte;37,72;Night;Fri;May
+Cappuccino;37,72;Night;Fri;May
+Americano with Milk;32,82;Night;Fri;May
+Cortado;27,92;Night;Fri;May
+Cortado;27,92;Morning;Sat;Jun
+Latte;37,72;Morning;Sat;Jun
+Latte;37,72;Morning;Sat;Jun
+Americano with Milk;32,82;Afternoon;Sat;Jun
+Americano with Milk;32,82;Night;Sat;Jun
+Americano with Milk;32,82;Night;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Cocoa;37,72;Night;Sat;Jun
+Americano with Milk;32,82;Night;Sat;Jun
+Latte;37,72;Night;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Cappuccino;37,72;Night;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Latte;37,72;Night;Sun;Jun
+Latte;37,72;Morning;Mon;Jun
+Latte;37,72;Morning;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Americano with Milk;32,82;Afternoon;Mon;Jun
+Latte;37,72;Afternoon;Mon;Jun
+Cortado;27,92;Morning;Tue;Jun
+Americano with Milk;32,82;Morning;Tue;Jun
+Latte;37,72;Afternoon;Tue;Jun
+Hot Chocolate;37,72;Afternoon;Tue;Jun
+Latte;37,72;Afternoon;Tue;Jun
+Cortado;27,92;Night;Tue;Jun
+Cappuccino;37,72;Night;Tue;Jun
+Hot Chocolate;37,72;Night;Tue;Jun
+Cappuccino;37,72;Night;Tue;Jun
+Cortado;27,92;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Cappuccino;37,72;Morning;Wed;Jun
+Cappuccino;37,72;Morning;Wed;Jun
+Americano;27,92;Morning;Wed;Jun
+Latte;37,72;Morning;Wed;Jun
+Americano with Milk;32,82;Morning;Wed;Jun
+Americano with Milk;32,82;Night;Wed;Jun
+Latte;37,72;Night;Wed;Jun
+Cocoa;37,72;Night;Wed;Jun
+Cortado;27,92;Night;Wed;Jun
+Americano with Milk;32,82;Morning;Thu;Jun
+Americano with Milk;32,82;Morning;Thu;Jun
+Latte;37,72;Morning;Thu;Jun
+Americano;27,92;Afternoon;Thu;Jun
+Americano with Milk;32,82;Afternoon;Thu;Jun
+Cappuccino;37,72;Afternoon;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Cappuccino;37,72;Night;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Cappuccino;37,72;Morning;Fri;Jun
+Espresso;23,02;Morning;Fri;Jun
+Americano with Milk;32,82;Afternoon;Fri;Jun
+Cortado;27,92;Afternoon;Fri;Jun
+Cortado;27,92;Afternoon;Fri;Jun
+Cortado;27,92;Morning;Sat;Jun
+Americano with Milk;32,82;Morning;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Latte;37,72;Morning;Sun;Jun
+Latte;37,72;Morning;Sun;Jun
+Cappuccino;37,72;Morning;Sun;Jun
+Cortado;27,92;Morning;Sun;Jun
+Espresso;23,02;Morning;Sun;Jun
+Cappuccino;37,72;Morning;Sun;Jun
+Americano with Milk;32,82;Afternoon;Sun;Jun
+Latte;37,72;Afternoon;Sun;Jun
+Latte;37,72;Afternoon;Sun;Jun
+Cortado;27,92;Afternoon;Sun;Jun
+Cappuccino;37,72;Afternoon;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Americano;27,92;Night;Sun;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Latte;37,72;Afternoon;Mon;Jun
+Hot Chocolate;37,72;Night;Mon;Jun
+Hot Chocolate;37,72;Night;Mon;Jun
+Latte;37,72;Night;Mon;Jun
+Latte;37,72;Night;Mon;Jun
+Americano with Milk;32,82;Morning;Tue;Jun
+Latte;37,72;Night;Tue;Jun
+Latte;37,72;Night;Tue;Jun
+Hot Chocolate;37,72;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Hot Chocolate;37,72;Morning;Wed;Jun
+Cappuccino;37,72;Morning;Wed;Jun
+Latte;37,72;Night;Wed;Jun
+Latte;37,72;Night;Wed;Jun
+Hot Chocolate;37,72;Night;Wed;Jun
+Americano with Milk;32,82;Night;Wed;Jun
+Americano;27,92;Morning;Thu;Jun
+Latte;37,72;Morning;Thu;Jun
+Americano with Milk;32,82;Morning;Thu;Jun
+Cortado;27,92;Morning;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Hot Chocolate;37,72;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Espresso;23,02;Night;Thu;Jun
+Espresso;23,02;Night;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Cortado;27,92;Morning;Fri;Jun
+Americano;27,92;Morning;Fri;Jun
+Latte;37,72;Afternoon;Fri;Jun
+Americano with Milk;32,82;Night;Fri;Jun
+Cappuccino;37,72;Morning;Sat;Jun
+Latte;37,72;Afternoon;Sat;Jun
+Americano with Milk;32,82;Afternoon;Sat;Jun
+Espresso;23,02;Afternoon;Sat;Jun
+Cocoa;37,72;Afternoon;Sat;Jun
+Americano with Milk;32,82;Afternoon;Sat;Jun
+Americano with Milk;32,82;Afternoon;Sat;Jun
+Americano;27,92;Night;Sat;Jun
+Americano with Milk;32,82;Morning;Sun;Jun
+Latte;37,72;Morning;Sun;Jun
+Hot Chocolate;37,72;Morning;Sun;Jun
+Hot Chocolate;37,72;Morning;Sun;Jun
+Americano with Milk;32,82;Afternoon;Sun;Jun
+Espresso;23,02;Afternoon;Sun;Jun
+Americano with Milk;32,82;Afternoon;Sun;Jun
+Americano with Milk;32,82;Afternoon;Sun;Jun
+Hot Chocolate;37,72;Afternoon;Sun;Jun
+Hot Chocolate;37,72;Afternoon;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Americano;27,92;Morning;Mon;Jun
+Cortado;27,92;Morning;Mon;Jun
+Cortado;27,92;Morning;Mon;Jun
+Cappuccino;37,72;Morning;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Americano;27,92;Afternoon;Mon;Jun
+Americano;27,92;Night;Mon;Jun
+Americano with Milk;32,82;Night;Mon;Jun
+Americano;27,92;Afternoon;Tue;Jun
+Cappuccino;37,72;Afternoon;Tue;Jun
+Cappuccino;37,72;Night;Tue;Jun
+Cappuccino;37,72;Night;Tue;Jun
+Cortado;27,92;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Americano with Milk;32,82;Night;Tue;Jun
+Latte;37,72;Morning;Wed;Jun
+Cortado;27,92;Morning;Wed;Jun
+Americano;27,92;Morning;Wed;Jun
+Latte;37,72;Morning;Wed;Jun
+Cocoa;37,72;Morning;Wed;Jun
+Americano with Milk;32,82;Afternoon;Wed;Jun
+Cappuccino;37,72;Night;Wed;Jun
+Latte;37,72;Night;Wed;Jun
+Americano with Milk;32,82;Night;Wed;Jun
+Cappuccino;37,72;Night;Wed;Jun
+Americano with Milk;32,82;Night;Wed;Jun
+Latte;37,72;Morning;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Latte;37,72;Night;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Latte;37,72;Morning;Fri;Jun
+Americano;27,92;Morning;Fri;Jun
+Americano with Milk;32,82;Afternoon;Fri;Jun
+Americano with Milk;32,82;Afternoon;Fri;Jun
+Espresso;23,02;Night;Fri;Jun
+Latte;37,72;Night;Fri;Jun
+Cappuccino;37,72;Night;Fri;Jun
+Cappuccino;37,72;Night;Fri;Jun
+Cappuccino;37,72;Night;Fri;Jun
+Cappuccino;37,72;Night;Fri;Jun
+Americano;27,92;Night;Fri;Jun
+Americano with Milk;32,82;Night;Fri;Jun
+Cortado;27,92;Morning;Sat;Jun
+Americano with Milk;32,82;Morning;Sat;Jun
+Americano with Milk;32,82;Afternoon;Sat;Jun
+Latte;37,72;Afternoon;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Cappuccino;37,72;Night;Sun;Jun
+Latte;37,72;Night;Sun;Jun
+Cappuccino;37,72;Night;Sun;Jun
+Americano with Milk;32,82;Morning;Mon;Jun
+Cappuccino;37,72;Morning;Mon;Jun
+Cappuccino;37,72;Morning;Mon;Jun
+Latte;37,72;Afternoon;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Cappuccino;37,72;Afternoon;Mon;Jun
+Latte;37,72;Morning;Tue;Jun
+Americano with Milk;32,82;Morning;Tue;Jun
+Americano with Milk;32,82;Morning;Tue;Jun
+Cappuccino;37,72;Morning;Tue;Jun
+Latte;37,72;Morning;Wed;Jun
+Espresso;23,02;Afternoon;Wed;Jun
+Americano;27,92;Afternoon;Wed;Jun
+Latte;37,72;Night;Wed;Jun
+Cappuccino;37,72;Night;Wed;Jun
+Americano with Milk;32,82;Night;Wed;Jun
+Americano with Milk;32,82;Morning;Thu;Jun
+Cortado;27,92;Afternoon;Thu;Jun
+Americano with Milk;32,82;Night;Thu;Jun
+Cappuccino;37,72;Night;Thu;Jun
+Cortado;27,92;Morning;Fri;Jun
+Espresso;23,02;Night;Fri;Jun
+Americano with Milk;32,82;Night;Fri;Jun
+Latte;37,72;Night;Fri;Jun
+Cappuccino;37,72;Night;Fri;Jun
+Americano with Milk;32,82;Morning;Sat;Jun
+Americano with Milk;32,82;Morning;Sat;Jun
+Americano with Milk;32,82;Morning;Sat;Jun
+Cappuccino;37,72;Afternoon;Sat;Jun
+Cappuccino;37,72;Afternoon;Sat;Jun
+Cappuccino;37,72;Night;Sat;Jun
+Hot Chocolate;37,72;Night;Sat;Jun
+Latte;37,72;Night;Sat;Jun
+Latte;37,72;Morning;Sun;Jun
+Espresso;23,02;Afternoon;Sun;Jun
+Hot Chocolate;37,72;Afternoon;Sun;Jun
+Americano with Milk;32,82;Night;Sun;Jun
+Espresso;23,02;Night;Mon;Jul
+Cappuccino;37,72;Night;Mon;Jul
+Cappuccino;37,72;Night;Mon;Jul
+Americano with Milk;32,82;Morning;Tue;Jul
+Americano;27,92;Morning;Tue;Jul
+Latte;37,72;Afternoon;Tue;Jul
+Americano;27,92;Afternoon;Tue;Jul
+Americano with Milk;32,82;Afternoon;Tue;Jul
+Americano with Milk;32,82;Night;Tue;Jul
+Americano with Milk;32,82;Afternoon;Wed;Jul
+Cappuccino;37,72;Afternoon;Wed;Jul
+Cappuccino;37,72;Afternoon;Wed;Jul
+Americano with Milk;32,82;Afternoon;Wed;Jul
+Americano with Milk;32,82;Afternoon;Wed;Jul
+Latte;37,72;Afternoon;Wed;Jul
+Espresso;23,02;Afternoon;Wed;Jul
+Cappuccino;37,72;Night;Wed;Jul
+Latte;37,72;Night;Wed;Jul
+Americano with Milk;32,82;Morning;Thu;Jul
+Americano;27,92;Morning;Thu;Jul
+Cocoa;37,72;Afternoon;Fri;Jul
+Americano with Milk;32,82;Afternoon;Fri;Jul
+Americano with Milk;32,82;Afternoon;Fri;Jul
+Espresso;23,02;Night;Fri;Jul
+Americano;27,92;Night;Fri;Jul
+Espresso;23,02;Night;Fri;Jul
+Americano;27,92;Night;Fri;Jul
+Americano;27,92;Night;Fri;Jul
+Cappuccino;37,72;Night;Fri;Jul
+Americano with Milk;32,82;Night;Fri;Jul
+Latte;37,72;Morning;Sat;Jul
+Latte;32,82;Night;Sat;Jul
+Latte;32,82;Night;Sat;Jul
+Latte;32,82;Night;Sat;Jul
+Americano with Milk;27,92;Night;Sat;Jul
+Cappuccino;32,82;Morning;Sun;Jul
+Americano with Milk;27,92;Morning;Sun;Jul
+Americano with Milk;27,92;Morning;Sun;Jul
+Cappuccino;32,82;Morning;Sun;Jul
+Cappuccino;32,82;Morning;Sun;Jul
+Hot Chocolate;32,82;Afternoon;Sun;Jul
+Cocoa;32,82;Afternoon;Sun;Jul
+Latte;32,82;Night;Sun;Jul
+Cappuccino;32,82;Night;Sun;Jul
+Hot Chocolate;32,82;Night;Sun;Jul
+Americano with Milk;27,92;Night;Sun;Jul
+Latte;32,82;Morning;Mon;Jul
+Americano;23,02;Afternoon;Mon;Jul
+Americano;23,02;Afternoon;Mon;Jul
+Americano with Milk;27,92;Night;Mon;Jul
+Latte;32,82;Night;Mon;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Cappuccino;32,82;Morning;Tue;Jul
+Americano with Milk;27,92;Afternoon;Tue;Jul
+Americano;23,02;Morning;Wed;Jul
+Americano with Milk;27,92;Afternoon;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Hot Chocolate;32,82;Morning;Thu;Jul
+Americano with Milk;27,92;Afternoon;Thu;Jul
+Latte;32,82;Night;Thu;Jul
+Americano;23,02;Night;Thu;Jul
+Cortado;23,02;Morning;Fri;Jul
+Hot Chocolate;32,82;Morning;Fri;Jul
+Hot Chocolate;32,82;Night;Fri;Jul
+Hot Chocolate;32,82;Night;Fri;Jul
+Hot Chocolate;32,82;Night;Fri;Jul
+Latte;32,82;Morning;Sat;Jul
+Latte;32,82;Morning;Sat;Jul
+Americano;23,02;Morning;Sun;Jul
+Americano with Milk;27,92;Morning;Sun;Jul
+Cappuccino;32,82;Morning;Sun;Jul
+Latte;32,82;Morning;Sun;Jul
+Americano;23,02;Morning;Sun;Jul
+Latte;32,82;Night;Sun;Jul
+Cappuccino;32,82;Morning;Mon;Jul
+Americano with Milk;27,92;Afternoon;Tue;Jul
+Hot Chocolate;32,82;Night;Tue;Jul
+Americano with Milk;27,92;Afternoon;Wed;Jul
+Americano with Milk;27,92;Morning;Thu;Jul
+Espresso;18,12;Morning;Thu;Jul
+Americano;23,02;Morning;Thu;Jul
+Americano;23,02;Morning;Thu;Jul
+Cortado;23,02;Morning;Thu;Jul
+Latte;32,82;Afternoon;Thu;Jul
+Cappuccino;32,82;Night;Thu;Jul
+Latte;32,82;Night;Thu;Jul
+Hot Chocolate;32,82;Night;Thu;Jul
+Latte;32,82;Night;Thu;Jul
+Latte;32,82;Night;Thu;Jul
+Americano;23,02;Morning;Fri;Jul
+Americano with Milk;27,92;Morning;Fri;Jul
+Latte;32,82;Afternoon;Fri;Jul
+Americano with Milk;27,92;Afternoon;Fri;Jul
+Latte;32,82;Afternoon;Fri;Jul
+Cocoa;32,82;Afternoon;Fri;Jul
+Latte;32,82;Afternoon;Fri;Jul
+Latte;32,82;Afternoon;Fri;Jul
+Americano;23,02;Morning;Sat;Jul
+Latte;32,82;Morning;Sat;Jul
+Americano;23,02;Morning;Sat;Jul
+Latte;32,82;Morning;Sat;Jul
+Latte;32,82;Morning;Sat;Jul
+Americano;23,02;Morning;Sat;Jul
+Latte;32,82;Afternoon;Sat;Jul
+Cocoa;32,82;Morning;Sun;Jul
+Cappuccino;32,82;Morning;Sun;Jul
+Cortado;23,02;Afternoon;Sun;Jul
+Latte;32,82;Afternoon;Sun;Jul
+Americano;23,02;Morning;Mon;Jul
+Americano;23,02;Morning;Mon;Jul
+Americano with Milk;27,92;Morning;Mon;Jul
+Latte;32,82;Afternoon;Mon;Jul
+Latte;32,82;Morning;Tue;Jul
+Americano;23,02;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Cocoa;32,82;Morning;Tue;Jul
+Latte;32,82;Morning;Tue;Jul
+Americano;23,02;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Afternoon;Tue;Jul
+Latte;32,82;Afternoon;Tue;Jul
+Latte;32,82;Night;Tue;Jul
+Americano;23,02;Night;Tue;Jul
+Americano;23,02;Night;Tue;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Espresso;18,12;Morning;Wed;Jul
+Cappuccino;32,82;Morning;Wed;Jul
+Latte;32,82;Afternoon;Wed;Jul
+Espresso;18,12;Afternoon;Wed;Jul
+Latte;32,82;Afternoon;Wed;Jul
+Cappuccino;32,82;Night;Wed;Jul
+Cappuccino;32,82;Night;Wed;Jul
+Americano with Milk;27,92;Night;Wed;Jul
+Americano;23,02;Night;Wed;Jul
+Americano;23,02;Night;Wed;Jul
+Americano;23,02;Morning;Thu;Jul
+Latte;32,82;Morning;Thu;Jul
+Americano with Milk;27,92;Morning;Thu;Jul
+Americano;23,02;Morning;Thu;Jul
+Cappuccino;32,82;Afternoon;Thu;Jul
+Cappuccino;32,82;Night;Thu;Jul
+Cortado;23,02;Night;Thu;Jul
+Espresso;18,12;Night;Thu;Jul
+Cortado;23,02;Night;Thu;Jul
+Cocoa;32,82;Night;Thu;Jul
+Latte;32,82;Morning;Fri;Jul
+Americano with Milk;27,92;Morning;Fri;Jul
+Espresso;18,12;Morning;Fri;Jul
+Cortado;23,02;Morning;Fri;Jul
+Cortado;23,02;Morning;Fri;Jul
+Latte;32,82;Morning;Fri;Jul
+Latte;32,82;Morning;Fri;Jul
+Americano with Milk;27,92;Morning;Fri;Jul
+Americano with Milk;27,92;Afternoon;Fri;Jul
+Cappuccino;32,82;Afternoon;Fri;Jul
+Cappuccino;32,82;Afternoon;Fri;Jul
+Latte;32,82;Afternoon;Fri;Jul
+Americano;23,02;Night;Fri;Jul
+Cappuccino;32,82;Night;Fri;Jul
+Latte;32,82;Night;Fri;Jul
+Americano with Milk;27,92;Night;Fri;Jul
+Cappuccino;32,82;Morning;Sat;Jul
+Americano with Milk;27,92;Morning;Sat;Jul
+Americano with Milk;27,92;Afternoon;Sat;Jul
+Espresso;18,12;Afternoon;Sat;Jul
+Americano with Milk;27,92;Afternoon;Sat;Jul
+Espresso;18,12;Afternoon;Sat;Jul
+Latte;32,82;Afternoon;Sat;Jul
+Cappuccino;32,82;Night;Sat;Jul
+Cappuccino;32,82;Night;Sat;Jul
+Americano with Milk;27,92;Night;Sat;Jul
+Americano with Milk;27,92;Night;Sat;Jul
+Latte;32,82;Night;Sat;Jul
+Cappuccino;32,82;Night;Sat;Jul
+Espresso;18,12;Morning;Sun;Jul
+Americano with Milk;27,92;Afternoon;Sun;Jul
+Latte;32,82;Afternoon;Sun;Jul
+Latte;32,82;Morning;Mon;Jul
+Americano;23,02;Morning;Mon;Jul
+Americano with Milk;27,92;Morning;Mon;Jul
+Americano;23,02;Morning;Mon;Jul
+Americano with Milk;27,92;Morning;Mon;Jul
+Cappuccino;32,82;Morning;Mon;Jul
+Hot Chocolate;32,82;Morning;Mon;Jul
+Hot Chocolate;32,82;Morning;Mon;Jul
+Cappuccino;32,82;Night;Mon;Jul
+Americano;23,02;Night;Mon;Jul
+Cocoa;32,82;Night;Mon;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Cortado;23,02;Morning;Tue;Jul
+Cappuccino;32,82;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Cortado;23,02;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Latte;32,82;Morning;Tue;Jul
+Americano;23,02;Morning;Tue;Jul
+Espresso;18,12;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Americano with Milk;27,92;Morning;Tue;Jul
+Latte;32,82;Afternoon;Tue;Jul
+Americano with Milk;27,92;Afternoon;Tue;Jul
+Cortado;23,02;Afternoon;Tue;Jul
+Americano with Milk;27,92;Afternoon;Tue;Jul
+Espresso;18,12;Night;Tue;Jul
+Americano with Milk;27,92;Night;Tue;Jul
+Americano with Milk;27,92;Night;Tue;Jul
+Americano with Milk;27,92;Night;Tue;Jul
+Latte;32,82;Night;Tue;Jul
+Americano;23,02;Night;Tue;Jul
+Cappuccino;32,82;Night;Tue;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Americano;23,02;Morning;Wed;Jul
+Americano;23,02;Morning;Wed;Jul
+Americano with Milk;27,92;Morning;Wed;Jul
+Cocoa;32,82;Afternoon;Wed;Jul
+Latte;32,82;Afternoon;Wed;Jul
+Americano with Milk;27,92;Afternoon;Wed;Jul
+Cortado;23,02;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Cortado;23,02;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Cocoa;32,82;Night;Wed;Jul
+Cortado;23,02;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Cappuccino;32,82;Night;Wed;Jul
+Cortado;23,02;Night;Wed;Jul
+Americano with Milk;27,92;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Latte;32,82;Night;Wed;Jul
+Americano with Milk;27,92;Morning;Thu;Aug
+Americano with Milk;27,92;Morning;Thu;Aug
+Americano with Milk;27,92;Morning;Thu;Aug
+Americano with Milk;27,92;Morning;Thu;Aug
+Cortado;23,02;Afternoon;Thu;Aug
+Cappuccino;32,82;Afternoon;Thu;Aug
+Cappuccino;32,82;Afternoon;Thu;Aug
+Americano with Milk;27,92;Afternoon;Thu;Aug
+Americano with Milk;27,92;Afternoon;Thu;Aug
+Americano;23,02;Afternoon;Thu;Aug
+Americano;23,02;Night;Thu;Aug
+Cappuccino;32,82;Night;Thu;Aug
+Americano with Milk;27,92;Morning;Fri;Aug
+Americano with Milk;27,92;Morning;Fri;Aug
+Cortado;23,02;Morning;Fri;Aug
+Americano with Milk;27,92;Night;Fri;Aug
+Latte;32,82;Night;Fri;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Espresso;18,12;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Americano with Milk;27,92;Afternoon;Sat;Aug
+Americano with Milk;27,92;Afternoon;Sat;Aug
+Cappuccino;32,82;Night;Sat;Aug
+Latte;32,82;Night;Sat;Aug
+Latte;32,82;Night;Sat;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Americano with Milk;27,92;Morning;Sun;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Americano with Milk;27,92;Morning;Sun;Aug
+Cappuccino;32,82;Afternoon;Sun;Aug
+Cappuccino;32,82;Afternoon;Sun;Aug
+Cortado;23,02;Morning;Mon;Aug
+Americano with Milk;27,92;Morning;Mon;Aug
+Cortado;23,02;Morning;Mon;Aug
+Cappuccino;32,82;Afternoon;Mon;Aug
+Latte;32,82;Afternoon;Mon;Aug
+Latte;32,82;Afternoon;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Cocoa;32,82;Night;Mon;Aug
+Cocoa;32,82;Night;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Cortado;23,02;Morning;Tue;Aug
+Hot Chocolate;32,82;Morning;Tue;Aug
+Cappuccino;32,82;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Cocoa;32,82;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Americano with Milk;27,92;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Americano with Milk;27,92;Morning;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Espresso;18,12;Afternoon;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Cocoa;32,82;Night;Wed;Aug
+Cappuccino;32,82;Night;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Espresso;18,12;Morning;Thu;Aug
+Cortado;23,02;Morning;Thu;Aug
+Americano with Milk;27,92;Afternoon;Thu;Aug
+Cortado;23,02;Afternoon;Thu;Aug
+Cortado;23,02;Afternoon;Thu;Aug
+Cappuccino;32,82;Afternoon;Thu;Aug
+Cappuccino;32,82;Night;Thu;Aug
+Americano with Milk;27,92;Night;Thu;Aug
+Latte;32,82;Morning;Fri;Aug
+Americano;23,02;Morning;Fri;Aug
+Cortado;23,02;Morning;Fri;Aug
+Americano with Milk;27,92;Morning;Fri;Aug
+Latte;32,82;Morning;Fri;Aug
+Americano;23,02;Morning;Fri;Aug
+Americano;23,02;Night;Fri;Aug
+Hot Chocolate;32,82;Night;Fri;Aug
+Cappuccino;32,82;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Americano;23,02;Morning;Sat;Aug
+Latte;32,82;Afternoon;Sat;Aug
+Americano with Milk;27,92;Afternoon;Sat;Aug
+Latte;32,82;Afternoon;Sat;Aug
+Cocoa;32,82;Night;Sat;Aug
+Cocoa;32,82;Night;Sat;Aug
+Cocoa;32,82;Night;Sat;Aug
+Latte;32,82;Morning;Sun;Aug
+Latte;32,82;Morning;Sun;Aug
+Americano with Milk;27,92;Morning;Sun;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Americano with Milk;27,92;Morning;Sun;Aug
+Cortado;23,02;Afternoon;Sun;Aug
+Latte;32,82;Afternoon;Sun;Aug
+Americano with Milk;27,92;Afternoon;Sun;Aug
+Cocoa;32,82;Afternoon;Sun;Aug
+Cappuccino;32,82;Afternoon;Sun;Aug
+Espresso;18,12;Afternoon;Sun;Aug
+Cortado;23,02;Night;Sun;Aug
+Latte;32,82;Night;Sun;Aug
+Latte;32,82;Night;Sun;Aug
+Cappuccino;32,82;Night;Sun;Aug
+Hot Chocolate;32,82;Morning;Mon;Aug
+Americano with Milk;27,92;Morning;Mon;Aug
+Americano;23,02;Morning;Mon;Aug
+Latte;32,82;Morning;Mon;Aug
+Latte;32,82;Morning;Mon;Aug
+Espresso;18,12;Afternoon;Mon;Aug
+Americano with Milk;27,92;Afternoon;Mon;Aug
+Americano with Milk;27,92;Afternoon;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Cappuccino;32,82;Night;Mon;Aug
+Cappuccino;32,82;Night;Mon;Aug
+Americano with Milk;27,92;Morning;Tue;Aug
+Americano with Milk;27,92;Morning;Tue;Aug
+Americano with Milk;27,92;Morning;Tue;Aug
+Cortado;23,02;Morning;Tue;Aug
+Latte;32,82;Morning;Tue;Aug
+Americano with Milk;27,92;Afternoon;Tue;Aug
+Latte;32,82;Afternoon;Tue;Aug
+Cappuccino;32,82;Afternoon;Tue;Aug
+Americano with Milk;27,92;Afternoon;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Cocoa;32,82;Night;Tue;Aug
+Cappuccino;32,82;Night;Tue;Aug
+Cortado;23,02;Night;Tue;Aug
+Latte;32,82;Morning;Wed;Aug
+Cappuccino;32,82;Morning;Wed;Aug
+Cortado;23,02;Morning;Wed;Aug
+Espresso;18,12;Morning;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Latte;32,82;Afternoon;Wed;Aug
+Americano;23,02;Night;Wed;Aug
+Cortado;23,02;Night;Wed;Aug
+Americano with Milk;27,92;Night;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Cortado;23,02;Night;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Cortado;23,02;Morning;Thu;Aug
+Cappuccino;32,82;Morning;Thu;Aug
+Hot Chocolate;32,82;Morning;Thu;Aug
+Latte;32,82;Morning;Thu;Aug
+Latte;32,82;Afternoon;Thu;Aug
+Latte;32,82;Afternoon;Thu;Aug
+Americano;23,02;Afternoon;Thu;Aug
+Espresso;18,12;Afternoon;Thu;Aug
+Americano with Milk;27,92;Night;Thu;Aug
+Hot Chocolate;32,82;Night;Thu;Aug
+Americano with Milk;27,92;Night;Thu;Aug
+Americano with Milk;27,92;Night;Thu;Aug
+Americano;23,02;Night;Thu;Aug
+Cappuccino;32,82;Night;Thu;Aug
+Espresso;18,12;Night;Thu;Aug
+Americano with Milk;27,92;Night;Thu;Aug
+Latte;32,82;Afternoon;Fri;Aug
+Americano;23,02;Afternoon;Fri;Aug
+Americano with Milk;27,92;Afternoon;Fri;Aug
+Espresso;18,12;Afternoon;Fri;Aug
+Espresso;18,12;Afternoon;Fri;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Cappuccino;32,82;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Americano with Milk;27,92;Afternoon;Sat;Aug
+Cortado;23,02;Afternoon;Sat;Aug
+Latte;32,82;Afternoon;Sat;Aug
+Cappuccino;32,82;Night;Sat;Aug
+Americano with Milk;27,92;Night;Sat;Aug
+Latte;32,82;Night;Sat;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Cortado;23,02;Morning;Sun;Aug
+Americano with Milk;27,92;Morning;Sun;Aug
+Cappuccino;32,82;Afternoon;Sun;Aug
+Americano with Milk;27,92;Afternoon;Sun;Aug
+Americano with Milk;27,92;Night;Sun;Aug
+Americano with Milk;27,92;Night;Sun;Aug
+Americano;23,02;Night;Sun;Aug
+Americano;23,02;Night;Sun;Aug
+Americano with Milk;27,92;Afternoon;Mon;Aug
+Americano with Milk;27,92;Afternoon;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Cocoa;32,82;Night;Mon;Aug
+Cortado;23,02;Morning;Tue;Aug
+Latte;32,82;Morning;Tue;Aug
+Espresso;18,12;Morning;Tue;Aug
+Cortado;23,02;Morning;Tue;Aug
+Americano with Milk;27,92;Morning;Tue;Aug
+Americano;23,02;Morning;Tue;Aug
+Americano;23,02;Morning;Tue;Aug
+Americano;23,02;Morning;Tue;Aug
+Latte;32,82;Morning;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Latte;32,82;Night;Tue;Aug
+Americano with Milk;27,92;Morning;Wed;Aug
+Cortado;23,02;Morning;Wed;Aug
+Americano;23,02;Morning;Wed;Aug
+Americano with Milk;27,92;Morning;Wed;Aug
+Cortado;23,02;Morning;Wed;Aug
+Latte;32,82;Afternoon;Wed;Aug
+Latte;32,82;Night;Wed;Aug
+Cortado;23,02;Morning;Thu;Aug
+Americano with Milk;27,92;Morning;Thu;Aug
+Americano with Milk;27,92;Morning;Thu;Aug
+Latte;32,82;Afternoon;Thu;Aug
+Latte;32,82;Afternoon;Thu;Aug
+Cappuccino;32,82;Afternoon;Thu;Aug
+Americano;23,02;Afternoon;Thu;Aug
+Latte;32,82;Morning;Fri;Aug
+Cortado;23,02;Morning;Fri;Aug
+Latte;32,82;Morning;Fri;Aug
+Americano;23,02;Morning;Fri;Aug
+Americano;23,02;Morning;Fri;Aug
+Americano with Milk;27,92;Morning;Fri;Aug
+Cocoa;32,82;Morning;Fri;Aug
+Americano;23,02;Morning;Fri;Aug
+Cortado;23,02;Morning;Fri;Aug
+Hot Chocolate;32,82;Morning;Fri;Aug
+Americano;23,02;Afternoon;Fri;Aug
+Americano;23,02;Afternoon;Fri;Aug
+Latte;32,82;Night;Fri;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Espresso;18,12;Morning;Sat;Aug
+Espresso;18,12;Morning;Sat;Aug
+Americano;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sun;Aug
+Americano;23,02;Morning;Sun;Aug
+Americano;23,02;Morning;Sun;Aug
+Cappuccino;32,82;Morning;Sun;Aug
+Cappuccino;32,82;Afternoon;Sun;Aug
+Latte;32,82;Afternoon;Sun;Aug
+Cortado;23,02;Morning;Mon;Aug
+Americano;23,02;Morning;Mon;Aug
+Americano;23,02;Morning;Mon;Aug
+Americano with Milk;27,92;Morning;Mon;Aug
+Latte;32,82;Morning;Mon;Aug
+Cappuccino;32,82;Morning;Mon;Aug
+Americano;23,02;Afternoon;Mon;Aug
+Americano;23,02;Afternoon;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Latte;32,82;Night;Mon;Aug
+Americano with Milk;27,92;Night;Mon;Aug
+Latte;32,82;Morning;Tue;Aug
+Americano with Milk;27,92;Afternoon;Wed;Aug
+Cappuccino;32,82;Afternoon;Wed;Aug
+Americano;23,02;Afternoon;Wed;Aug
+Americano with Milk;27,92;Afternoon;Wed;Aug
+Americano;23,02;Morning;Thu;Aug
+Latte;32,82;Night;Fri;Aug
+Americano with Milk;27,92;Night;Fri;Aug
+Americano with Milk;27,92;Night;Fri;Aug
+Cortado;23,02;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Espresso;18,12;Morning;Sat;Aug
+Americano with Milk;27,92;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sat;Aug
+Cortado;23,02;Morning;Sun;Sep
+Cappuccino;32,82;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Americano;23,02;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Latte;32,82;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Latte;32,82;Night;Sun;Sep
+Latte;32,82;Night;Sun;Sep
+Latte;32,82;Night;Sun;Sep
+Latte;32,82;Morning;Mon;Sep
+Americano with Milk;27,92;Morning;Mon;Sep
+Latte;32,82;Morning;Mon;Sep
+Americano with Milk;27,92;Afternoon;Mon;Sep
+Cappuccino;32,82;Night;Mon;Sep
+Cocoa;32,82;Night;Mon;Sep
+Americano;23,02;Night;Mon;Sep
+Americano;23,02;Night;Mon;Sep
+Cocoa;32,82;Morning;Tue;Sep
+Cappuccino;32,82;Morning;Tue;Sep
+Latte;32,82;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Cappuccino;32,82;Morning;Tue;Sep
+Cocoa;32,82;Morning;Tue;Sep
+Cocoa;32,82;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Latte;32,82;Morning;Tue;Sep
+Cocoa;32,82;Morning;Tue;Sep
+Cortado;23,02;Afternoon;Tue;Sep
+Americano with Milk;27,92;Afternoon;Tue;Sep
+Americano with Milk;27,92;Afternoon;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Latte;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano with Milk;27,92;Morning;Wed;Sep
+Latte;32,82;Morning;Wed;Sep
+Americano;23,02;Morning;Wed;Sep
+Americano with Milk;27,92;Morning;Wed;Sep
+Latte;32,82;Afternoon;Wed;Sep
+Latte;32,82;Afternoon;Wed;Sep
+Americano with Milk;27,92;Afternoon;Wed;Sep
+Cappuccino;32,82;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Latte;32,82;Night;Wed;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Americano;23,02;Morning;Thu;Sep
+Latte;32,82;Afternoon;Thu;Sep
+Latte;32,82;Afternoon;Thu;Sep
+Americano;23,02;Afternoon;Thu;Sep
+Americano with Milk;27,92;Afternoon;Thu;Sep
+Cappuccino;32,82;Night;Thu;Sep
+Cappuccino;32,82;Night;Thu;Sep
+Cappuccino;32,82;Night;Thu;Sep
+Americano;23,02;Night;Thu;Sep
+Cappuccino;32,82;Night;Thu;Sep
+Americano with Milk;27,92;Night;Thu;Sep
+Americano with Milk;27,92;Night;Thu;Sep
+Cappuccino;32,82;Morning;Fri;Sep
+Latte;32,82;Morning;Fri;Sep
+Americano;23,02;Morning;Fri;Sep
+Espresso;18,12;Morning;Fri;Sep
+Latte;32,82;Morning;Fri;Sep
+Hot Chocolate;32,82;Morning;Fri;Sep
+Espresso;18,12;Morning;Fri;Sep
+Espresso;18,12;Morning;Fri;Sep
+Latte;32,82;Night;Fri;Sep
+Latte;32,82;Night;Fri;Sep
+Latte;32,82;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Americano with Milk;27,92;Morning;Sat;Sep
+Americano with Milk;27,92;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Americano;23,02;Morning;Sat;Sep
+Espresso;18,12;Morning;Sat;Sep
+Espresso;18,12;Morning;Sat;Sep
+Latte;32,82;Morning;Sat;Sep
+Americano with Milk;27,92;Morning;Sat;Sep
+Americano;23,02;Morning;Sat;Sep
+Espresso;18,12;Morning;Sat;Sep
+Latte;32,82;Afternoon;Sat;Sep
+Americano;23,02;Afternoon;Sat;Sep
+Espresso;18,12;Afternoon;Sat;Sep
+Cocoa;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Cortado;23,02;Morning;Sun;Sep
+Cortado;23,02;Morning;Sun;Sep
+Cortado;23,02;Morning;Sun;Sep
+Cortado;23,02;Morning;Sun;Sep
+Cortado;23,02;Afternoon;Sun;Sep
+Americano;23,02;Night;Sun;Sep
+Latte;32,82;Morning;Mon;Sep
+Cappuccino;32,82;Morning;Mon;Sep
+Americano with Milk;27,92;Morning;Mon;Sep
+Latte;32,82;Morning;Mon;Sep
+Latte;32,82;Morning;Mon;Sep
+Hot Chocolate;32,82;Morning;Mon;Sep
+Latte;32,82;Morning;Mon;Sep
+Americano with Milk;27,92;Morning;Mon;Sep
+Americano with Milk;27,92;Morning;Mon;Sep
+Latte;32,82;Morning;Mon;Sep
+Espresso;18,12;Afternoon;Mon;Sep
+Latte;32,82;Afternoon;Mon;Sep
+Americano;23,02;Afternoon;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Cappuccino;32,82;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Hot Chocolate;32,82;Morning;Tue;Sep
+Cappuccino;32,82;Morning;Tue;Sep
+Cortado;23,02;Afternoon;Tue;Sep
+Cortado;23,02;Afternoon;Tue;Sep
+Cappuccino;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Latte;32,82;Night;Tue;Sep
+Latte;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano;23,02;Night;Tue;Sep
+Latte;32,82;Morning;Wed;Sep
+Americano with Milk;27,92;Morning;Wed;Sep
+Latte;32,82;Morning;Wed;Sep
+Cappuccino;32,82;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Latte;32,82;Night;Wed;Sep
+Latte;32,82;Night;Wed;Sep
+Cortado;23,02;Night;Wed;Sep
+Espresso;18,12;Morning;Thu;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Cappuccino;32,82;Afternoon;Thu;Sep
+Cortado;23,02;Afternoon;Thu;Sep
+Cortado;23,02;Afternoon;Thu;Sep
+Cortado;23,02;Afternoon;Thu;Sep
+Cortado;23,02;Afternoon;Thu;Sep
+Latte;32,82;Night;Thu;Sep
+Americano;23,02;Night;Thu;Sep
+Cappuccino;32,82;Night;Thu;Sep
+Cortado;23,02;Night;Thu;Sep
+Latte;32,82;Morning;Fri;Sep
+Latte;32,82;Morning;Fri;Sep
+Latte;32,82;Morning;Fri;Sep
+Latte;32,82;Morning;Fri;Sep
+Americano with Milk;27,92;Afternoon;Fri;Sep
+Americano with Milk;27,92;Afternoon;Fri;Sep
+Cappuccino;32,82;Afternoon;Sat;Sep
+Cappuccino;32,82;Afternoon;Sat;Sep
+Espresso;18,12;Morning;Sun;Sep
+Americano with Milk;27,92;Morning;Sun;Sep
+Americano;23,02;Afternoon;Sun;Sep
+Cortado;23,02;Afternoon;Sun;Sep
+Cortado;23,02;Afternoon;Sun;Sep
+Cappuccino;32,82;Afternoon;Sun;Sep
+Latte;32,82;Afternoon;Mon;Sep
+Americano with Milk;27,92;Afternoon;Mon;Sep
+Latte;32,82;Afternoon;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Cortado;23,02;Morning;Tue;Sep
+Latte;32,82;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Cortado;23,02;Morning;Tue;Sep
+Cappuccino;32,82;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Espresso;18,12;Afternoon;Tue;Sep
+Americano with Milk;27,92;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Americano with Milk;27,92;Afternoon;Tue;Sep
+Cortado;23,02;Afternoon;Tue;Sep
+Cappuccino;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Hot Chocolate;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Latte;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Hot Chocolate;32,82;Night;Tue;Sep
+Hot Chocolate;32,82;Night;Tue;Sep
+Latte;32,82;Afternoon;Wed;Sep
+Latte;32,82;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Cortado;23,02;Morning;Thu;Sep
+Latte;32,82;Morning;Thu;Sep
+Americano;23,02;Afternoon;Thu;Sep
+Americano with Milk;27,92;Afternoon;Thu;Sep
+Cortado;23,02;Afternoon;Thu;Sep
+Americano with Milk;27,92;Morning;Fri;Sep
+Americano with Milk;27,92;Morning;Fri;Sep
+Americano with Milk;27,92;Afternoon;Fri;Sep
+Latte;32,82;Afternoon;Fri;Sep
+Americano;23,02;Night;Fri;Sep
+Americano with Milk;27,92;Night;Fri;Sep
+Americano with Milk;27,92;Night;Fri;Sep
+Latte;32,82;Morning;Sat;Sep
+Cocoa;32,82;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Cortado;23,02;Morning;Sat;Sep
+Cappuccino;32,82;Afternoon;Sat;Sep
+Latte;32,82;Afternoon;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Americano;23,02;Night;Sat;Sep
+Americano;23,02;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Latte;32,82;Night;Sat;Sep
+Americano with Milk;27,92;Night;Sat;Sep
+Americano;23,02;Night;Sat;Sep
+Americano;23,02;Night;Sat;Sep
+Americano;23,02;Morning;Sun;Sep
+Americano with Milk;27,92;Morning;Sun;Sep
+Latte;32,82;Morning;Sun;Sep
+Cortado;23,02;Morning;Sun;Sep
+Cortado;23,02;Morning;Sun;Sep
+Americano with Milk;27,92;Morning;Sun;Sep
+Americano;23,02;Morning;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Latte;32,82;Afternoon;Sun;Sep
+Americano with Milk;27,92;Afternoon;Sun;Sep
+Cocoa;32,82;Afternoon;Sun;Sep
+Latte;32,82;Night;Sun;Sep
+Cappuccino;32,82;Night;Sun;Sep
+Americano with Milk;27,92;Night;Sun;Sep
+Americano with Milk;27,92;Night;Sun;Sep
+Americano with Milk;27,92;Night;Sun;Sep
+Americano with Milk;27,92;Night;Sun;Sep
+Hot Chocolate;32,82;Night;Sun;Sep
+Hot Chocolate;32,82;Night;Sun;Sep
+Americano;23,02;Night;Sun;Sep
+Americano with Milk;27,92;Night;Sun;Sep
+Americano with Milk;27,92;Morning;Mon;Sep
+Cortado;23,02;Morning;Mon;Sep
+Americano;23,02;Afternoon;Mon;Sep
+Americano with Milk;27,92;Afternoon;Mon;Sep
+Cappuccino;32,82;Night;Mon;Sep
+Americano;23,02;Night;Mon;Sep
+Latte;32,82;Night;Mon;Sep
+Cappuccino;32,82;Night;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Americano with Milk;27,92;Night;Mon;Sep
+Americano with Milk;27,92;Morning;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Cortado;23,02;Afternoon;Tue;Sep
+Cappuccino;32,82;Afternoon;Tue;Sep
+Latte;32,82;Afternoon;Tue;Sep
+Americano;23,02;Night;Tue;Sep
+Americano;23,02;Night;Tue;Sep
+Hot Chocolate;32,82;Night;Tue;Sep
+Latte;32,82;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Americano with Milk;27,92;Night;Tue;Sep
+Cappuccino;32,82;Morning;Wed;Sep
+Cortado;23,02;Morning;Wed;Sep
+Americano with Milk;27,92;Morning;Wed;Sep
+Latte;32,82;Morning;Wed;Sep
+Americano with Milk;27,92;Afternoon;Wed;Sep
+Americano with Milk;27,92;Afternoon;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Americano;23,02;Night;Wed;Sep
+Americano with Milk;27,92;Night;Wed;Sep
+Latte;32,82;Morning;Thu;Sep
+Americano with Milk;27,92;Morning;Thu;Sep
+Espresso;18,12;Morning;Thu;Sep
+Cappuccino;32,82;Morning;Thu;Sep
+Latte;32,82;Afternoon;Thu;Sep
+Latte;32,82;Night;Thu;Sep
+Latte;32,82;Night;Thu;Sep
+Cortado;23,02;Night;Thu;Sep
+Americano with Milk;27,92;Night;Thu;Sep
+Americano with Milk;27,92;Morning;Fri;Sep
+Cortado;23,02;Morning;Fri;Sep
+Cappuccino;32,82;Morning;Fri;Sep
+Americano with Milk;27,92;Morning;Fri;Sep
+Americano with Milk;27,92;Morning;Fri;Sep
+Cappuccino;32,82;Afternoon;Fri;Sep
+Cappuccino;32,82;Afternoon;Fri;Sep
+Americano;23,02;Afternoon;Fri;Sep
+Americano with Milk;27,92;Afternoon;Fri;Sep
+Latte;32,82;Night;Fri;Sep
+Latte;32,82;Night;Fri;Sep
+Cappuccino;32,82;Night;Fri;Sep
+Cappuccino;32,82;Night;Fri;Sep
+Cappuccino;32,82;Night;Fri;Sep
+Cappuccino;32,82;Night;Fri;Sep
+Americano with Milk;27,92;Night;Fri;Sep
+Americano with Milk;27,92;Morning;Sat;Sep
+Americano with Milk;27,92;Morning;Sat;Sep
+Latte;35,76;Afternoon;Sat;Sep
+Latte;35,76;Afternoon;Sat;Sep
+Americano with Milk;30,86;Night;Sat;Sep
+Latte;35,76;Night;Sat;Sep
+Latte;35,76;Night;Sat;Sep
+Cappuccino;35,76;Night;Sat;Sep
+Cocoa;35,76;Night;Sat;Sep
+Cortado;25,96;Night;Sat;Sep
+Hot Chocolate;35,76;Night;Sat;Sep
+Americano;25,96;Morning;Sun;Sep
+Cappuccino;35,76;Morning;Sun;Sep
+Cappuccino;35,76;Morning;Sun;Sep
+Cappuccino;35,76;Morning;Sun;Sep
+Americano with Milk;30,86;Morning;Sun;Sep
+Latte;35,76;Afternoon;Sun;Sep
+Cortado;25,96;Afternoon;Sun;Sep
+Latte;35,76;Afternoon;Sun;Sep
+Latte;35,76;Afternoon;Sun;Sep
+Cappuccino;35,76;Night;Sun;Sep
+Latte;35,76;Night;Sun;Sep
+Cortado;25,96;Morning;Mon;Sep
+Cortado;25,96;Morning;Mon;Sep
+Hot Chocolate;35,76;Morning;Mon;Sep
+Americano with Milk;30,86;Morning;Mon;Sep
+Cortado;25,96;Morning;Mon;Sep
+Americano with Milk;30,86;Morning;Mon;Sep
+Americano with Milk;30,86;Afternoon;Mon;Sep
+Latte;35,76;Night;Mon;Sep
+Americano with Milk;30,86;Night;Mon;Sep
+Cortado;25,96;Night;Mon;Sep
+Latte;35,76;Night;Mon;Sep
+Americano with Milk;30,86;Night;Mon;Sep
+Americano with Milk;30,86;Night;Mon;Sep
+Americano with Milk;30,86;Night;Mon;Sep
+Latte;35,76;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Americano with Milk;30,86;Afternoon;Tue;Oct
+Americano with Milk;30,86;Afternoon;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Americano with Milk;30,86;Afternoon;Tue;Oct
+Hot Chocolate;35,76;Afternoon;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Latte;35,76;Morning;Wed;Oct
+Cortado;25,96;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Cappuccino;35,76;Morning;Wed;Oct
+Cappuccino;35,76;Afternoon;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Cocoa;35,76;Afternoon;Thu;Oct
+Americano with Milk;30,86;Afternoon;Thu;Oct
+Cortado;25,96;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Cappuccino;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Cortado;25,96;Morning;Fri;Oct
+Cortado;25,96;Morning;Fri;Oct
+Latte;35,76;Night;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Cocoa;35,76;Night;Fri;Oct
+Cortado;25,96;Morning;Sat;Oct
+Cortado;25,96;Morning;Sat;Oct
+Cocoa;35,76;Morning;Sat;Oct
+Cappuccino;35,76;Afternoon;Sat;Oct
+Americano;25,96;Night;Sat;Oct
+Americano;25,96;Night;Sat;Oct
+Cortado;25,96;Morning;Sun;Oct
+Cappuccino;35,76;Morning;Sun;Oct
+Cortado;25,96;Morning;Sun;Oct
+Latte;35,76;Morning;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Cappuccino;35,76;Afternoon;Sun;Oct
+Americano with Milk;30,86;Afternoon;Sun;Oct
+Americano;25,96;Afternoon;Sun;Oct
+Cappuccino;35,76;Afternoon;Sun;Oct
+Americano with Milk;30,86;Afternoon;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Cappuccino;35,76;Afternoon;Sun;Oct
+Cappuccino;35,76;Afternoon;Sun;Oct
+Espresso;21,06;Afternoon;Sun;Oct
+Americano with Milk;30,86;Night;Sun;Oct
+Hot Chocolate;35,76;Night;Sun;Oct
+Hot Chocolate;35,76;Night;Sun;Oct
+Hot Chocolate;35,76;Night;Sun;Oct
+Hot Chocolate;35,76;Night;Sun;Oct
+Latte;35,76;Night;Sun;Oct
+Latte;35,76;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Americano with Milk;30,86;Morning;Mon;Oct
+Cocoa;35,76;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Americano;25,96;Afternoon;Mon;Oct
+Americano;25,96;Afternoon;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Hot Chocolate;35,76;Night;Mon;Oct
+Hot Chocolate;35,76;Night;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Latte;35,76;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Americano;25,96;Morning;Tue;Oct
+Latte;35,76;Morning;Tue;Oct
+Latte;35,76;Morning;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Americano with Milk;30,86;Afternoon;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Cappuccino;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Americano with Milk;30,86;Night;Tue;Oct
+Americano with Milk;30,86;Night;Tue;Oct
+Latte;35,76;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Espresso;21,06;Morning;Wed;Oct
+Americano;25,96;Morning;Wed;Oct
+Latte;35,76;Afternoon;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Cappuccino;35,76;Night;Wed;Oct
+Americano;25,96;Night;Wed;Oct
+Espresso;21,06;Night;Wed;Oct
+Cappuccino;35,76;Night;Wed;Oct
+Americano;25,96;Morning;Thu;Oct
+Americano with Milk;30,86;Morning;Thu;Oct
+Hot Chocolate;35,76;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Cortado;25,96;Morning;Thu;Oct
+Cortado;25,96;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Cappuccino;35,76;Afternoon;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Americano;25,96;Night;Thu;Oct
+Americano with Milk;30,86;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Latte;35,76;Morning;Fri;Oct
+Cortado;25,96;Morning;Fri;Oct
+Latte;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Hot Chocolate;35,76;Morning;Fri;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Cortado;25,96;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Latte;35,76;Afternoon;Fri;Oct
+Americano;25,96;Afternoon;Fri;Oct
+Americano;25,96;Afternoon;Fri;Oct
+Cocoa;35,76;Afternoon;Fri;Oct
+Americano;25,96;Afternoon;Fri;Oct
+Cappuccino;35,76;Afternoon;Fri;Oct
+Latte;35,76;Night;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Latte;35,76;Night;Fri;Oct
+Americano with Milk;30,86;Night;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Cortado;25,96;Morning;Sat;Oct
+Cortado;25,96;Morning;Sat;Oct
+Cortado;25,96;Morning;Sat;Oct
+Latte;35,76;Morning;Sat;Oct
+Americano with Milk;30,86;Morning;Sat;Oct
+Cappuccino;35,76;Afternoon;Sat;Oct
+Latte;35,76;Night;Sat;Oct
+Cortado;25,96;Morning;Sun;Oct
+Americano with Milk;30,86;Afternoon;Sun;Oct
+Cortado;25,96;Afternoon;Sun;Oct
+Espresso;21,06;Afternoon;Sun;Oct
+Cortado;25,96;Afternoon;Sun;Oct
+Latte;35,76;Night;Sun;Oct
+Latte;35,76;Night;Sun;Oct
+Cappuccino;35,76;Night;Sun;Oct
+Cappuccino;35,76;Night;Sun;Oct
+Americano with Milk;30,86;Morning;Mon;Oct
+Cocoa;35,76;Morning;Mon;Oct
+Cortado;25,96;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Cappuccino;35,76;Morning;Mon;Oct
+Americano;25,96;Morning;Mon;Oct
+Americano;25,96;Morning;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Americano;25,96;Afternoon;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Cappuccino;35,76;Night;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Cortado;25,96;Morning;Tue;Oct
+Espresso;21,06;Morning;Tue;Oct
+Hot Chocolate;35,76;Morning;Tue;Oct
+Latte;35,76;Morning;Tue;Oct
+Hot Chocolate;35,76;Morning;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Americano with Milk;30,86;Afternoon;Tue;Oct
+Latte;35,76;Afternoon;Tue;Oct
+Americano;25,96;Afternoon;Tue;Oct
+Espresso;21,06;Afternoon;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Americano;25,96;Night;Tue;Oct
+Cocoa;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Hot Chocolate;35,76;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Americano;25,96;Morning;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Americano;25,96;Afternoon;Wed;Oct
+Latte;35,76;Afternoon;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Latte;35,76;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Americano with Milk;30,86;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Hot Chocolate;35,76;Morning;Thu;Oct
+Americano with Milk;30,86;Morning;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Americano;25,96;Afternoon;Thu;Oct
+Hot Chocolate;35,76;Afternoon;Thu;Oct
+Hot Chocolate;35,76;Afternoon;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Hot Chocolate;35,76;Afternoon;Thu;Oct
+Hot Chocolate;35,76;Afternoon;Thu;Oct
+Cappuccino;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Americano with Milk;30,86;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cappuccino;35,76;Morning;Fri;Oct
+Cappuccino;35,76;Morning;Fri;Oct
+Latte;35,76;Afternoon;Fri;Oct
+Cappuccino;35,76;Afternoon;Fri;Oct
+Americano;25,96;Afternoon;Fri;Oct
+Latte;35,76;Afternoon;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Cocoa;35,76;Night;Fri;Oct
+Cocoa;35,76;Night;Fri;Oct
+Americano with Milk;30,86;Night;Fri;Oct
+Latte;35,76;Night;Fri;Oct
+Americano with Milk;30,86;Morning;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Cappuccino;35,76;Afternoon;Sat;Oct
+Hot Chocolate;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Cocoa;35,76;Night;Sat;Oct
+Cappuccino;35,76;Night;Sat;Oct
+Latte;35,76;Morning;Sun;Oct
+Cocoa;35,76;Morning;Sun;Oct
+Latte;35,76;Morning;Sun;Oct
+Hot Chocolate;35,76;Afternoon;Sun;Oct
+Cortado;25,96;Afternoon;Sun;Oct
+Americano with Milk;30,86;Afternoon;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Latte;35,76;Night;Sun;Oct
+Cocoa;35,76;Night;Sun;Oct
+Cocoa;35,76;Night;Sun;Oct
+Hot Chocolate;35,76;Night;Sun;Oct
+Cortado;25,96;Night;Sun;Oct
+Cocoa;35,76;Night;Sun;Oct
+Latte;35,76;Night;Sun;Oct
+Cappuccino;35,76;Night;Sun;Oct
+Latte;35,76;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Americano with Milk;30,86;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Americano;25,96;Morning;Mon;Oct
+Cortado;25,96;Morning;Mon;Oct
+Cortado;25,96;Morning;Mon;Oct
+Espresso;21,06;Morning;Mon;Oct
+Cappuccino;35,76;Afternoon;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Cortado;25,96;Afternoon;Mon;Oct
+Cocoa;35,76;Afternoon;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Hot Chocolate;35,76;Night;Mon;Oct
+Latte;35,76;Night;Mon;Oct
+Cocoa;35,76;Night;Mon;Oct
+Hot Chocolate;35,76;Night;Mon;Oct
+Latte;35,76;Morning;Tue;Oct
+Cappuccino;35,76;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Cortado;25,96;Morning;Tue;Oct
+Espresso;21,06;Morning;Tue;Oct
+Cortado;25,96;Morning;Tue;Oct
+Americano;25,96;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Latte;35,76;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Cortado;25,96;Morning;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Cappuccino;35,76;Afternoon;Wed;Oct
+Espresso;21,06;Night;Wed;Oct
+Cocoa;35,76;Night;Wed;Oct
+Cappuccino;35,76;Night;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Latte;35,76;Night;Wed;Oct
+Americano;25,96;Afternoon;Thu;Oct
+Cappuccino;35,76;Afternoon;Thu;Oct
+Cappuccino;35,76;Afternoon;Thu;Oct
+Hot Chocolate;35,76;Afternoon;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Americano;25,96;Night;Thu;Oct
+Americano;25,96;Night;Thu;Oct
+Latte;35,76;Night;Thu;Oct
+Americano;25,96;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Hot Chocolate;35,76;Night;Thu;Oct
+Cappuccino;35,76;Night;Thu;Oct
+Cappuccino;35,76;Morning;Fri;Oct
+Espresso;21,06;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Latte;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano;25,96;Morning;Fri;Oct
+Americano with Milk;30,86;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cocoa;35,76;Morning;Fri;Oct
+Cortado;25,96;Afternoon;Fri;Oct
+Latte;35,76;Afternoon;Fri;Oct
+Cappuccino;35,76;Afternoon;Fri;Oct
+Hot Chocolate;35,76;Night;Fri;Oct
+Espresso;21,06;Night;Fri;Oct
+Cappuccino;35,76;Morning;Sat;Oct
+Cortado;25,96;Morning;Sat;Oct
+Cappuccino;35,76;Morning;Sat;Oct
+Americano;25,96;Morning;Sat;Oct
+Cocoa;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Americano with Milk;30,86;Afternoon;Sat;Oct
+Cortado;25,96;Afternoon;Sat;Oct
+Cortado;25,96;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Latte;35,76;Afternoon;Sat;Oct
+Americano with Milk;30,86;Afternoon;Sat;Oct
+Americano with Milk;30,86;Afternoon;Sat;Oct
+Cappuccino;35,76;Night;Sat;Oct
+Americano with Milk;30,86;Night;Sat;Oct
+Americano with Milk;30,86;Morning;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Americano with Milk;30,86;Afternoon;Sun;Oct
+Cappuccino;35,76;Afternoon;Sun;Oct
+Latte;35,76;Afternoon;Sun;Oct
+Cappuccino;35,76;Morning;Mon;Oct
+Americano;25,96;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Americano with Milk;30,86;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Latte;35,76;Morning;Mon;Oct
+Hot Chocolate;35,76;Afternoon;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Cappuccino;35,76;Afternoon;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Americano with Milk;30,86;Afternoon;Mon;Oct
+Latte;35,76;Afternoon;Mon;Oct
+Cocoa;35,76;Night;Mon;Oct
+Cocoa;35,76;Night;Mon;Oct
+Cappuccino;35,76;Night;Mon;Oct
+Americano with Milk;30,86;Night;Mon;Oct
+Americano with Milk;30,86;Night;Mon;Oct
+Latte;35,76;Morning;Tue;Oct
+Latte;35,76;Morning;Tue;Oct
+Latte;35,76;Morning;Tue;Oct
+Americano with Milk;30,86;Morning;Tue;Oct
+Espresso;21,06;Afternoon;Tue;Oct
+Cortado;25,96;Afternoon;Tue;Oct
+Cortado;25,96;Afternoon;Tue;Oct
+Cappuccino;35,76;Afternoon;Tue;Oct
+Hot Chocolate;35,76;Afternoon;Tue;Oct
+Cocoa;35,76;Afternoon;Tue;Oct
+Cocoa;35,76;Afternoon;Tue;Oct
+Americano with Milk;30,86;Night;Tue;Oct
+Americano with Milk;30,86;Night;Tue;Oct
+Americano with Milk;30,86;Night;Tue;Oct
+Cappuccino;35,76;Night;Tue;Oct
+Hot Chocolate;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Latte;35,76;Night;Tue;Oct
+Latte;35,76;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Americano with Milk;30,86;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Latte;35,76;Morning;Wed;Oct
+Latte;35,76;Afternoon;Wed;Oct
+Americano;25,96;Afternoon;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Americano;25,96;Afternoon;Wed;Oct
+Latte;35,76;Afternoon;Wed;Oct
+Latte;35,76;Afternoon;Wed;Oct
+Americano with Milk;30,86;Afternoon;Wed;Oct
+Hot Chocolate;35,76;Night;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Americano with Milk;30,86;Night;Wed;Oct
+Latte;35,76;Morning;Thu;Oct
+Latte;35,76;Morning;Thu;Oct
+Americano with Milk;30,86;Morning;Thu;Oct
+Latte;35,76;Afternoon;Thu;Oct
+Americano with Milk;30,86;Afternoon;Thu;Oct
+Cocoa;35,76;Morning;Fri;Nov
+Americano;25,96;Morning;Fri;Nov
+Latte;35,76;Morning;Fri;Nov
+Cocoa;35,76;Afternoon;Fri;Nov
+Cocoa;35,76;Afternoon;Fri;Nov
+Cortado;25,96;Afternoon;Fri;Nov
+Americano with Milk;30,86;Night;Fri;Nov
+Cortado;25,96;Morning;Sat;Nov
+Cocoa;35,76;Morning;Sat;Nov
+Americano with Milk;30,86;Morning;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Americano with Milk;30,86;Night;Sat;Nov
+Americano;25,96;Night;Sat;Nov
+Cortado;25,96;Morning;Sun;Nov
+Americano with Milk;30,86;Morning;Sun;Nov
+Americano with Milk;30,86;Morning;Sun;Nov
+Latte;35,76;Afternoon;Sun;Nov
+Americano with Milk;30,86;Afternoon;Sun;Nov
+Cocoa;35,76;Afternoon;Sun;Nov
+Americano;25,96;Afternoon;Sun;Nov
+Americano with Milk;30,86;Afternoon;Sun;Nov
+Hot Chocolate;35,76;Afternoon;Sun;Nov
+Hot Chocolate;35,76;Afternoon;Sun;Nov
+Americano;25,96;Afternoon;Sun;Nov
+Americano;25,96;Afternoon;Sun;Nov
+Cocoa;35,76;Night;Sun;Nov
+Latte;35,76;Morning;Mon;Nov
+Latte;35,76;Morning;Mon;Nov
+Americano with Milk;30,86;Morning;Mon;Nov
+Americano;25,96;Afternoon;Mon;Nov
+Americano with Milk;30,86;Afternoon;Mon;Nov
+Cocoa;35,76;Afternoon;Mon;Nov
+Cocoa;35,76;Afternoon;Mon;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Americano with Milk;30,86;Morning;Tue;Nov
+Cappuccino;35,76;Morning;Tue;Nov
+Americano with Milk;30,86;Morning;Tue;Nov
+Americano with Milk;30,86;Morning;Tue;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Latte;35,76;Morning;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Cappuccino;35,76;Night;Tue;Nov
+Cappuccino;35,76;Night;Tue;Nov
+Cappuccino;35,76;Night;Tue;Nov
+Cocoa;35,76;Night;Tue;Nov
+Cocoa;35,76;Night;Tue;Nov
+Hot Chocolate;35,76;Night;Tue;Nov
+Hot Chocolate;35,76;Night;Tue;Nov
+Americano with Milk;30,86;Night;Tue;Nov
+Latte;35,76;Morning;Wed;Nov
+Espresso;21,06;Morning;Wed;Nov
+Americano;25,96;Afternoon;Wed;Nov
+Cappuccino;35,76;Afternoon;Wed;Nov
+Latte;35,76;Afternoon;Wed;Nov
+Cappuccino;35,76;Afternoon;Wed;Nov
+Hot Chocolate;35,76;Night;Wed;Nov
+Hot Chocolate;35,76;Night;Wed;Nov
+Latte;35,76;Afternoon;Thu;Nov
+Americano;25,96;Afternoon;Thu;Nov
+Americano;25,96;Afternoon;Thu;Nov
+Cocoa;35,76;Night;Thu;Nov
+Hot Chocolate;35,76;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Americano with Milk;30,86;Morning;Fri;Nov
+Americano;25,96;Morning;Fri;Nov
+Americano;25,96;Morning;Fri;Nov
+Cappuccino;35,76;Morning;Fri;Nov
+Latte;35,76;Afternoon;Fri;Nov
+Latte;35,76;Afternoon;Fri;Nov
+Americano with Milk;30,86;Afternoon;Fri;Nov
+Americano with Milk;30,86;Afternoon;Fri;Nov
+Hot Chocolate;35,76;Night;Fri;Nov
+Hot Chocolate;35,76;Night;Fri;Nov
+Hot Chocolate;35,76;Night;Fri;Nov
+Latte;35,76;Night;Fri;Nov
+Americano with Milk;30,86;Morning;Sat;Nov
+Cortado;25,96;Morning;Sat;Nov
+Cortado;25,96;Morning;Sat;Nov
+Latte;35,76;Morning;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Americano;25,96;Afternoon;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Cocoa;35,76;Afternoon;Sat;Nov
+Americano;25,96;Night;Sat;Nov
+Latte;35,76;Night;Sat;Nov
+Cocoa;35,76;Night;Sat;Nov
+Americano;25,96;Night;Sat;Nov
+Americano;25,96;Night;Sat;Nov
+Americano;25,96;Morning;Sun;Nov
+Cocoa;35,76;Night;Sun;Nov
+Hot Chocolate;35,76;Night;Sun;Nov
+Hot Chocolate;35,76;Night;Sun;Nov
+Cappuccino;35,76;Night;Sun;Nov
+Cappuccino;35,76;Night;Sun;Nov
+Cappuccino;35,76;Morning;Mon;Nov
+Americano with Milk;30,86;Morning;Mon;Nov
+Cortado;25,96;Morning;Mon;Nov
+Cappuccino;35,76;Afternoon;Mon;Nov
+Hot Chocolate;35,76;Afternoon;Mon;Nov
+Cappuccino;35,76;Night;Mon;Nov
+Latte;35,76;Night;Mon;Nov
+Hot Chocolate;35,76;Night;Mon;Nov
+Latte;35,76;Night;Mon;Nov
+Latte;35,76;Night;Mon;Nov
+Latte;35,76;Morning;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Hot Chocolate;35,76;Afternoon;Tue;Nov
+Hot Chocolate;35,76;Afternoon;Tue;Nov
+Cocoa;35,76;Afternoon;Tue;Nov
+Cappuccino;35,76;Night;Tue;Nov
+Latte;35,76;Night;Tue;Nov
+Cocoa;35,76;Night;Tue;Nov
+Americano with Milk;30,86;Morning;Wed;Nov
+Latte;35,76;Morning;Wed;Nov
+Americano with Milk;30,86;Afternoon;Wed;Nov
+Americano with Milk;30,86;Afternoon;Wed;Nov
+Americano with Milk;30,86;Afternoon;Wed;Nov
+Latte;35,76;Afternoon;Wed;Nov
+Latte;35,76;Morning;Thu;Nov
+Americano;25,96;Morning;Thu;Nov
+Espresso;21,06;Afternoon;Thu;Nov
+Cappuccino;35,76;Afternoon;Thu;Nov
+Latte;35,76;Afternoon;Thu;Nov
+Cappuccino;35,76;Afternoon;Thu;Nov
+Americano with Milk;30,86;Afternoon;Thu;Nov
+Cappuccino;35,76;Afternoon;Thu;Nov
+Hot Chocolate;35,76;Night;Thu;Nov
+Hot Chocolate;35,76;Night;Thu;Nov
+Cocoa;35,76;Night;Thu;Nov
+Hot Chocolate;35,76;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Americano with Milk;30,86;Morning;Fri;Nov
+Americano with Milk;30,86;Morning;Fri;Nov
+Cocoa;35,76;Afternoon;Fri;Nov
+Cocoa;35,76;Afternoon;Fri;Nov
+Latte;35,76;Afternoon;Fri;Nov
+Americano;25,96;Afternoon;Fri;Nov
+Americano with Milk;30,86;Night;Fri;Nov
+Latte;35,76;Night;Fri;Nov
+Hot Chocolate;35,76;Night;Fri;Nov
+Americano with Milk;30,86;Night;Fri;Nov
+Americano with Milk;30,86;Night;Fri;Nov
+Cortado;25,96;Morning;Sat;Nov
+Cortado;25,96;Morning;Sat;Nov
+Hot Chocolate;35,76;Morning;Sat;Nov
+Latte;35,76;Morning;Sat;Nov
+Americano;25,96;Morning;Sat;Nov
+Cappuccino;35,76;Afternoon;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Latte;35,76;Afternoon;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Americano with Milk;30,86;Morning;Sun;Nov
+Americano with Milk;30,86;Afternoon;Sun;Nov
+Americano;25,96;Afternoon;Sun;Nov
+Americano with Milk;30,86;Afternoon;Sun;Nov
+Latte;35,76;Afternoon;Sun;Nov
+Latte;35,76;Afternoon;Sun;Nov
+Hot Chocolate;35,76;Night;Sun;Nov
+Hot Chocolate;35,76;Night;Sun;Nov
+Hot Chocolate;35,76;Night;Sun;Nov
+Americano with Milk;30,86;Morning;Mon;Nov
+Americano with Milk;30,86;Morning;Mon;Nov
+Latte;35,76;Morning;Mon;Nov
+Latte;35,76;Afternoon;Mon;Nov
+Latte;35,76;Afternoon;Mon;Nov
+Latte;35,76;Night;Mon;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Americano with Milk;30,86;Morning;Tue;Nov
+Latte;35,76;Morning;Tue;Nov
+Espresso;21,06;Morning;Tue;Nov
+Latte;35,76;Morning;Tue;Nov
+Americano with Milk;30,86;Morning;Tue;Nov
+Latte;35,76;Morning;Tue;Nov
+Cocoa;35,76;Afternoon;Tue;Nov
+Cocoa;35,76;Afternoon;Tue;Nov
+Cappuccino;35,76;Afternoon;Tue;Nov
+Cappuccino;35,76;Afternoon;Tue;Nov
+Americano with Milk;30,86;Afternoon;Wed;Nov
+Latte;35,76;Afternoon;Wed;Nov
+Cappuccino;35,76;Night;Wed;Nov
+Hot Chocolate;35,76;Night;Wed;Nov
+Cortado;25,96;Morning;Thu;Nov
+Latte;35,76;Afternoon;Thu;Nov
+Cocoa;35,76;Afternoon;Thu;Nov
+Cocoa;35,76;Afternoon;Thu;Nov
+Latte;35,76;Afternoon;Thu;Nov
+Americano with Milk;30,86;Night;Thu;Nov
+Cortado;25,96;Night;Thu;Nov
+Hot Chocolate;35,76;Night;Thu;Nov
+Latte;35,76;Morning;Fri;Nov
+Cappuccino;35,76;Morning;Fri;Nov
+Latte;35,76;Morning;Fri;Nov
+Cocoa;35,76;Morning;Fri;Nov
+Hot Chocolate;35,76;Afternoon;Fri;Nov
+Latte;35,76;Afternoon;Fri;Nov
+Cortado;25,96;Morning;Sat;Nov
+Cortado;25,96;Morning;Sat;Nov
+Latte;35,76;Morning;Sat;Nov
+Cappuccino;35,76;Morning;Sat;Nov
+Americano;25,96;Morning;Sat;Nov
+Americano;25,96;Morning;Sat;Nov
+Hot Chocolate;35,76;Morning;Sat;Nov
+Latte;35,76;Night;Sat;Nov
+Latte;35,76;Morning;Sun;Nov
+Cappuccino;35,76;Morning;Mon;Nov
+Latte;35,76;Morning;Mon;Nov
+Americano with Milk;30,86;Morning;Mon;Nov
+Cortado;25,96;Morning;Mon;Nov
+Latte;35,76;Afternoon;Mon;Nov
+Latte;35,76;Afternoon;Mon;Nov
+Hot Chocolate;35,76;Afternoon;Mon;Nov
+Americano with Milk;30,86;Night;Mon;Nov
+Hot Chocolate;35,76;Night;Mon;Nov
+Hot Chocolate;35,76;Night;Mon;Nov
+Cappuccino;35,76;Night;Mon;Nov
+Latte;35,76;Morning;Tue;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Americano;25,96;Morning;Tue;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Cocoa;35,76;Morning;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Latte;35,76;Afternoon;Tue;Nov
+Americano;25,96;Night;Tue;Nov
+Americano with Milk;30,86;Night;Tue;Nov
+Cocoa;35,76;Night;Tue;Nov
+Cappuccino;35,76;Morning;Thu;Nov
+Americano with Milk;30,86;Morning;Thu;Nov
+Americano with Milk;30,86;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Latte;35,76;Night;Thu;Nov
+Cappuccino;35,76;Night;Thu;Nov
+Cocoa;35,76;Morning;Fri;Nov
+Latte;35,76;Morning;Fri;Nov
+Americano with Milk;30,86;Morning;Fri;Nov
+Americano with Milk;30,86;Morning;Fri;Nov
+Americano with Milk;30,86;Afternoon;Fri;Nov
+Latte;35,76;Afternoon;Fri;Nov
+Cocoa;35,76;Night;Fri;Nov
+Cocoa;35,76;Afternoon;Sat;Nov
+Americano;25,96;Afternoon;Sat;Nov
+Hot Chocolate;35,76;Afternoon;Sat;Nov
+Cocoa;35,76;Afternoon;Sat;Nov
+Americano with Milk;30,86;Afternoon;Sat;Nov
+Americano with Milk;30,86;Night;Sat;Nov
+Americano with Milk;30,86;Morning;Sun;Dec
+Americano with Milk;30,86;Morning;Sun;Dec
+Americano with Milk;30,86;Morning;Sun;Dec
+Americano with Milk;30,86;Afternoon;Sun;Dec
+Cocoa;35,76;Afternoon;Sun;Dec
+Cocoa;35,76;Afternoon;Sun;Dec
+Cappuccino;35,76;Afternoon;Sun;Dec
+Latte;35,76;Afternoon;Sun;Dec
+Latte;35,76;Afternoon;Sun;Dec
+Latte;35,76;Afternoon;Sun;Dec
+Latte;35,76;Afternoon;Sun;Dec
+Americano with Milk;30,86;Night;Sun;Dec
+Americano with Milk;30,86;Night;Sun;Dec
+Americano with Milk;30,86;Night;Sun;Dec
+Latte;35,76;Morning;Mon;Dec
+Americano;25,96;Morning;Mon;Dec
+Americano with Milk;30,86;Morning;Mon;Dec
+Cocoa;35,76;Morning;Mon;Dec
+Cortado;25,96;Morning;Mon;Dec
+Espresso;21,06;Afternoon;Mon;Dec
+Cappuccino;35,76;Afternoon;Mon;Dec
+Americano;25,96;Night;Mon;Dec
+Cappuccino;35,76;Night;Mon;Dec
+Latte;35,76;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano;25,96;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Cocoa;35,76;Night;Tue;Dec
+Latte;35,76;Night;Tue;Dec
+Cappuccino;35,76;Night;Tue;Dec
+Hot Chocolate;35,76;Night;Tue;Dec
+Americano with Milk;30,86;Night;Tue;Dec
+Cappuccino;35,76;Night;Tue;Dec
+Cortado;25,96;Morning;Wed;Dec
+Latte;35,76;Morning;Wed;Dec
+Latte;35,76;Morning;Wed;Dec
+Americano;25,96;Morning;Wed;Dec
+Americano with Milk;30,86;Morning;Wed;Dec
+Americano with Milk;30,86;Morning;Wed;Dec
+Americano with Milk;30,86;Morning;Wed;Dec
+Hot Chocolate;35,76;Morning;Wed;Dec
+Americano with Milk;30,86;Morning;Wed;Dec
+Hot Chocolate;35,76;Afternoon;Wed;Dec
+Americano;25,96;Morning;Thu;Dec
+Cortado;25,96;Morning;Thu;Dec
+Americano with Milk;30,86;Morning;Thu;Dec
+Americano with Milk;30,86;Morning;Thu;Dec
+Latte;35,76;Morning;Thu;Dec
+Americano;25,96;Morning;Thu;Dec
+Cappuccino;35,76;Afternoon;Thu;Dec
+Latte;35,76;Afternoon;Thu;Dec
+Latte;35,76;Afternoon;Thu;Dec
+Latte;35,76;Morning;Fri;Dec
+Hot Chocolate;35,76;Afternoon;Fri;Dec
+Latte;35,76;Night;Fri;Dec
+Hot Chocolate;35,76;Night;Fri;Dec
+Americano with Milk;30,86;Morning;Sat;Dec
+Americano;25,96;Afternoon;Sat;Dec
+Latte;35,76;Afternoon;Sat;Dec
+Cappuccino;35,76;Night;Sat;Dec
+Americano with Milk;30,86;Night;Sat;Dec
+Americano;25,96;Night;Sat;Dec
+Cortado;25,96;Morning;Sun;Dec
+Latte;35,76;Morning;Sun;Dec
+Cappuccino;35,76;Morning;Sun;Dec
+Cortado;25,96;Afternoon;Sun;Dec
+Americano with Milk;30,86;Afternoon;Sun;Dec
+Americano with Milk;30,86;Afternoon;Sun;Dec
+Cappuccino;35,76;Night;Sun;Dec
+Espresso;21,06;Night;Sun;Dec
+Cappuccino;35,76;Night;Sun;Dec
+Americano with Milk;30,86;Night;Sun;Dec
+Americano with Milk;30,86;Night;Sun;Dec
+Cappuccino;35,76;Morning;Mon;Dec
+Americano;25,96;Morning;Mon;Dec
+Americano with Milk;30,86;Morning;Mon;Dec
+Cortado;25,96;Afternoon;Mon;Dec
+Cocoa;35,76;Night;Mon;Dec
+Cortado;25,96;Afternoon;Tue;Dec
+Hot Chocolate;35,76;Night;Tue;Dec
+Latte;35,76;Morning;Wed;Dec
+Cortado;25,96;Morning;Wed;Dec
+Hot Chocolate;35,76;Afternoon;Wed;Dec
+Espresso;21,06;Afternoon;Wed;Dec
+Cocoa;35,76;Night;Wed;Dec
+Latte;35,76;Night;Wed;Dec
+Latte;35,76;Night;Wed;Dec
+Americano with Milk;30,86;Morning;Thu;Dec
+Americano;25,96;Afternoon;Thu;Dec
+Espresso;21,06;Afternoon;Thu;Dec
+Espresso;21,06;Afternoon;Thu;Dec
+Americano;25,96;Afternoon;Thu;Dec
+Cocoa;35,76;Night;Thu;Dec
+Cocoa;35,76;Night;Thu;Dec
+Americano;25,96;Afternoon;Fri;Dec
+Americano;25,96;Afternoon;Fri;Dec
+Hot Chocolate;35,76;Afternoon;Fri;Dec
+Hot Chocolate;35,76;Afternoon;Fri;Dec
+Cocoa;35,76;Afternoon;Fri;Dec
+Cappuccino;35,76;Night;Fri;Dec
+Cappuccino;35,76;Night;Fri;Dec
+Latte;35,76;Night;Fri;Dec
+Americano with Milk;30,86;Morning;Sat;Dec
+Cocoa;35,76;Morning;Sat;Dec
+Cappuccino;35,76;Morning;Sat;Dec
+Americano;25,96;Afternoon;Sat;Dec
+Latte;35,76;Afternoon;Sat;Dec
+Cocoa;35,76;Afternoon;Sat;Dec
+Americano;25,96;Afternoon;Sat;Dec
+Americano;25,96;Afternoon;Sat;Dec
+Americano;25,96;Night;Sat;Dec
+Americano;25,96;Night;Sat;Dec
+Americano with Milk;30,86;Night;Sat;Dec
+Latte;35,76;Morning;Sun;Dec
+Cocoa;35,76;Morning;Sun;Dec
+Hot Chocolate;35,76;Night;Sun;Dec
+Latte;35,76;Morning;Mon;Dec
+Hot Chocolate;35,76;Morning;Mon;Dec
+Cocoa;35,76;Morning;Mon;Dec
+Americano with Milk;30,86;Afternoon;Mon;Dec
+Latte;35,76;Afternoon;Mon;Dec
+Hot Chocolate;35,76;Afternoon;Mon;Dec
+Latte;35,76;Night;Mon;Dec
+Americano with Milk;30,86;Night;Mon;Dec
+Cortado;25,96;Morning;Tue;Dec
+Cappuccino;35,76;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano;25,96;Afternoon;Tue;Dec
+Cocoa;35,76;Afternoon;Tue;Dec
+Cappuccino;35,76;Night;Tue;Dec
+Cocoa;35,76;Night;Tue;Dec
+Latte;35,76;Morning;Wed;Dec
+Americano with Milk;30,86;Morning;Wed;Dec
+Latte;35,76;Morning;Wed;Dec
+Cappuccino;35,76;Morning;Wed;Dec
+Hot Chocolate;35,76;Morning;Thu;Dec
+Americano with Milk;30,86;Morning;Thu;Dec
+Espresso;21,06;Afternoon;Thu;Dec
+Hot Chocolate;35,76;Afternoon;Thu;Dec
+Cappuccino;35,76;Night;Thu;Dec
+Cappuccino;35,76;Night;Thu;Dec
+Americano with Milk;30,86;Night;Thu;Dec
+Hot Chocolate;35,76;Night;Thu;Dec
+Latte;35,76;Night;Thu;Dec
+Cappuccino;35,76;Night;Thu;Dec
+Cortado;25,96;Morning;Fri;Dec
+Americano with Milk;30,86;Morning;Fri;Dec
+Cappuccino;35,76;Morning;Fri;Dec
+Cortado;25,96;Morning;Fri;Dec
+Espresso;21,06;Afternoon;Fri;Dec
+Americano with Milk;30,86;Afternoon;Fri;Dec
+Cortado;25,96;Afternoon;Fri;Dec
+Cappuccino;35,76;Night;Fri;Dec
+Cappuccino;35,76;Night;Fri;Dec
+Cappuccino;35,76;Morning;Sat;Dec
+Latte;35,76;Morning;Sat;Dec
+Americano;25,96;Morning;Sat;Dec
+Hot Chocolate;35,76;Afternoon;Sat;Dec
+Latte;35,76;Afternoon;Sat;Dec
+Americano with Milk;30,86;Afternoon;Sat;Dec
+Latte;35,76;Afternoon;Sat;Dec
+Cocoa;35,76;Night;Sat;Dec
+Hot Chocolate;35,76;Night;Sat;Dec
+Cortado;25,96;Night;Sat;Dec
+Americano with Milk;30,86;Night;Sat;Dec
+Cortado;25,96;Night;Sat;Dec
+Cortado;25,96;Night;Sat;Dec
+Latte;35,76;Night;Sat;Dec
+Cortado;25,96;Night;Sat;Dec
+Cappuccino;35,76;Morning;Sun;Dec
+Cappuccino;35,76;Night;Sun;Dec
+Hot Chocolate;35,76;Night;Sun;Dec
+Hot Chocolate;35,76;Night;Sun;Dec
+Hot Chocolate;35,76;Night;Sun;Dec
+Cocoa;35,76;Night;Sun;Dec
+Cortado;25,96;Night;Sun;Dec
+Cortado;25,96;Morning;Mon;Dec
+Americano with Milk;30,86;Morning;Mon;Dec
+Americano with Milk;30,86;Morning;Mon;Dec
+Cappuccino;35,76;Morning;Mon;Dec
+Latte;35,76;Afternoon;Mon;Dec
+Americano with Milk;30,86;Afternoon;Mon;Dec
+Latte;35,76;Afternoon;Mon;Dec
+Cortado;25,96;Night;Mon;Dec
+Latte;35,76;Night;Mon;Dec
+Cortado;25,96;Night;Mon;Dec
+Americano with Milk;30,86;Afternoon;Tue;Dec
+Hot Chocolate;35,76;Afternoon;Tue;Dec
+Cortado;25,96;Night;Tue;Dec
+Hot Chocolate;35,76;Night;Tue;Dec
+Latte;35,76;Night;Tue;Dec
+Espresso;21,06;Night;Tue;Dec
+Cappuccino;35,76;Night;Tue;Dec
+Latte;35,76;Morning;Wed;Dec
+Latte;35,76;Morning;Wed;Dec
+Americano with Milk;30,86;Afternoon;Wed;Dec
+Americano;25,96;Afternoon;Wed;Dec
+Americano with Milk;30,86;Afternoon;Wed;Dec
+Americano;25,96;Afternoon;Wed;Dec
+Cappuccino;35,76;Night;Wed;Dec
+Cocoa;35,76;Night;Wed;Dec
+Cocoa;35,76;Night;Wed;Dec
+Latte;35,76;Night;Wed;Dec
+Cappuccino;35,76;Night;Wed;Dec
+Americano with Milk;30,86;Night;Wed;Dec
+Cappuccino;35,76;Afternoon;Thu;Dec
+Espresso;21,06;Afternoon;Thu;Dec
+Americano;25,96;Morning;Fri;Dec
+Cortado;25,96;Morning;Fri;Dec
+Cortado;25,96;Morning;Fri;Dec
+Americano with Milk;30,86;Morning;Fri;Dec
+Latte;35,76;Night;Fri;Dec
+Americano;25,96;Night;Fri;Dec
+Americano with Milk;30,86;Night;Fri;Dec
+Cocoa;35,76;Night;Fri;Dec
+Cortado;25,96;Morning;Sat;Dec
+Cortado;25,96;Morning;Sat;Dec
+Americano with Milk;30,86;Morning;Sat;Dec
+Latte;35,76;Morning;Sat;Dec
+Cappuccino;35,76;Afternoon;Sat;Dec
+Hot Chocolate;35,76;Afternoon;Sat;Dec
+Latte;35,76;Night;Sat;Dec
+Cappuccino;35,76;Night;Sat;Dec
+Cortado;25,96;Afternoon;Sun;Dec
+Espresso;21,06;Afternoon;Sun;Dec
+Americano;25,96;Afternoon;Sun;Dec
+Cortado;25,96;Night;Sun;Dec
+Espresso;21,06;Night;Sun;Dec
+Cortado;25,96;Night;Sun;Dec
+Hot Chocolate;35,76;Night;Sun;Dec
+Latte;35,76;Night;Sun;Dec
+Cortado;25,96;Morning;Mon;Dec
+Americano with Milk;30,86;Morning;Mon;Dec
+Latte;35,76;Afternoon;Mon;Dec
+Hot Chocolate;35,76;Afternoon;Mon;Dec
+Latte;35,76;Afternoon;Mon;Dec
+Americano with Milk;30,86;Afternoon;Mon;Dec
+Americano with Milk;30,86;Afternoon;Mon;Dec
+Americano;25,96;Afternoon;Mon;Dec
+Cappuccino;35,76;Afternoon;Mon;Dec
+Cortado;25,96;Morning;Tue;Dec
+Cappuccino;35,76;Morning;Tue;Dec
+Cortado;25,96;Morning;Tue;Dec
+Cocoa;35,76;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Cappuccino;35,76;Morning;Tue;Dec
+Americano with Milk;30,86;Morning;Tue;Dec
+Espresso;21,06;Afternoon;Tue;Dec
+Americano;25,96;Afternoon;Tue;Dec
+Cappuccino;35,76;Afternoon;Tue;Dec
+Latte;35,76;Night;Tue;Dec
+Americano with Milk;30,86;Night;Tue;Dec
+Cappuccino;35,76;Night;Tue;Dec
+Latte;35,76;Night;Tue;Dec
+Hot Chocolate;35,76;Night;Tue;Dec
+Americano with Milk;30,86;Morning;Thu;Jan
+Cocoa;35,76;Afternoon;Thu;Jan
+Cocoa;35,76;Afternoon;Thu;Jan
+Cortado;25,96;Afternoon;Thu;Jan
+Cortado;25,96;Afternoon;Thu;Jan
+Americano;25,96;Afternoon;Thu;Jan
+Hot Chocolate;35,76;Afternoon;Thu;Jan
+Americano with Milk;30,86;Afternoon;Thu;Jan
+Cappuccino;35,76;Night;Thu;Jan
+Cortado;25,96;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Americano with Milk;30,86;Afternoon;Fri;Jan
+Cappuccino;35,76;Night;Fri;Jan
+Americano;25,96;Night;Fri;Jan
+Americano;25,96;Night;Fri;Jan
+Latte;35,76;Night;Fri;Jan
+Cortado;25,96;Morning;Sat;Jan
+Americano;25,96;Morning;Sat;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Cocoa;35,76;Afternoon;Sat;Jan
+Americano with Milk;30,86;Afternoon;Sat;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Cortado;25,96;Afternoon;Sat;Jan
+Americano;25,96;Night;Sat;Jan
+Latte;35,76;Night;Sat;Jan
+Americano with Milk;30,86;Morning;Sun;Jan
+Latte;35,76;Morning;Sun;Jan
+Americano with Milk;30,86;Night;Sun;Jan
+Americano;25,96;Night;Mon;Jan
+Cappuccino;35,76;Afternoon;Tue;Jan
+Cocoa;35,76;Night;Tue;Jan
+Cocoa;35,76;Night;Tue;Jan
+Americano with Milk;30,86;Morning;Wed;Jan
+Latte;35,76;Morning;Wed;Jan
+Cortado;25,96;Morning;Wed;Jan
+Cappuccino;35,76;Night;Wed;Jan
+Americano;25,96;Morning;Thu;Jan
+Latte;35,76;Morning;Thu;Jan
+Americano with Milk;30,86;Morning;Thu;Jan
+Espresso;21,06;Afternoon;Thu;Jan
+Latte;35,76;Afternoon;Thu;Jan
+Americano with Milk;30,86;Afternoon;Thu;Jan
+Cortado;25,96;Afternoon;Thu;Jan
+Americano with Milk;30,86;Night;Thu;Jan
+Latte;35,76;Night;Thu;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Cappuccino;35,76;Night;Fri;Jan
+Hot Chocolate;35,76;Night;Fri;Jan
+Americano with Milk;30,86;Night;Fri;Jan
+Americano with Milk;30,86;Morning;Sat;Jan
+Hot Chocolate;35,76;Morning;Sat;Jan
+Americano;25,96;Morning;Sat;Jan
+Latte;35,76;Morning;Sat;Jan
+Latte;35,76;Morning;Sat;Jan
+Latte;35,76;Afternoon;Sat;Jan
+Latte;35,76;Afternoon;Sat;Jan
+Americano with Milk;30,86;Afternoon;Sat;Jan
+Americano with Milk;30,86;Afternoon;Sat;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Latte;35,76;Afternoon;Sat;Jan
+Cortado;25,96;Night;Sat;Jan
+Latte;35,76;Night;Sat;Jan
+Cortado;25,96;Night;Sat;Jan
+Americano with Milk;30,86;Night;Sat;Jan
+Americano with Milk;30,86;Morning;Sun;Jan
+Americano;25,96;Morning;Sun;Jan
+Americano with Milk;30,86;Morning;Sun;Jan
+Hot Chocolate;35,76;Afternoon;Sun;Jan
+Americano with Milk;30,86;Night;Sun;Jan
+Americano with Milk;30,86;Morning;Mon;Jan
+Americano with Milk;30,86;Morning;Mon;Jan
+Cortado;25,96;Afternoon;Mon;Jan
+Latte;35,76;Afternoon;Mon;Jan
+Latte;35,76;Afternoon;Mon;Jan
+Cappuccino;35,76;Afternoon;Mon;Jan
+Latte;35,76;Afternoon;Mon;Jan
+Espresso;21,06;Night;Mon;Jan
+Latte;35,76;Morning;Tue;Jan
+Cortado;25,96;Morning;Tue;Jan
+Americano with Milk;30,86;Morning;Tue;Jan
+Latte;35,76;Afternoon;Tue;Jan
+Americano with Milk;30,86;Afternoon;Tue;Jan
+Americano with Milk;30,86;Afternoon;Tue;Jan
+Cappuccino;35,76;Night;Tue;Jan
+Latte;35,76;Night;Tue;Jan
+Americano with Milk;30,86;Morning;Wed;Jan
+Americano;25,96;Morning;Wed;Jan
+Cappuccino;35,76;Afternoon;Wed;Jan
+Latte;35,76;Afternoon;Wed;Jan
+Cappuccino;35,76;Afternoon;Wed;Jan
+Latte;35,76;Afternoon;Wed;Jan
+Latte;35,76;Afternoon;Wed;Jan
+Latte;35,76;Night;Wed;Jan
+Latte;35,76;Night;Wed;Jan
+Cappuccino;35,76;Night;Wed;Jan
+Latte;35,76;Morning;Thu;Jan
+Americano with Milk;30,86;Morning;Thu;Jan
+Americano with Milk;30,86;Morning;Thu;Jan
+Cortado;25,96;Afternoon;Thu;Jan
+Latte;35,76;Afternoon;Thu;Jan
+Latte;35,76;Afternoon;Thu;Jan
+Cappuccino;35,76;Night;Thu;Jan
+Hot Chocolate;35,76;Night;Thu;Jan
+Hot Chocolate;35,76;Night;Thu;Jan
+Cortado;25,96;Night;Thu;Jan
+Cocoa;35,76;Morning;Fri;Jan
+Latte;35,76;Morning;Fri;Jan
+Cappuccino;35,76;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Cocoa;35,76;Afternoon;Fri;Jan
+Cocoa;35,76;Afternoon;Fri;Jan
+Hot Chocolate;35,76;Night;Fri;Jan
+Hot Chocolate;35,76;Night;Fri;Jan
+Americano with Milk;30,86;Morning;Sat;Jan
+Hot Chocolate;35,76;Afternoon;Sat;Jan
+Latte;35,76;Afternoon;Sat;Jan
+Hot Chocolate;35,76;Afternoon;Sat;Jan
+Americano with Milk;30,86;Morning;Mon;Jan
+Americano with Milk;30,86;Morning;Mon;Jan
+Cortado;25,96;Morning;Mon;Jan
+Americano;25,96;Afternoon;Mon;Jan
+Cortado;25,96;Afternoon;Mon;Jan
+Americano with Milk;30,86;Afternoon;Mon;Jan
+Hot Chocolate;35,76;Night;Mon;Jan
+Cappuccino;35,76;Night;Mon;Jan
+Cappuccino;35,76;Night;Mon;Jan
+Latte;35,76;Night;Mon;Jan
+Cocoa;35,76;Morning;Tue;Jan
+Cortado;25,96;Morning;Tue;Jan
+Americano with Milk;30,86;Morning;Tue;Jan
+Americano;25,96;Afternoon;Tue;Jan
+Hot Chocolate;35,76;Night;Tue;Jan
+Latte;35,76;Night;Tue;Jan
+Latte;35,76;Night;Tue;Jan
+Americano;25,96;Night;Tue;Jan
+Espresso;21,06;Morning;Wed;Jan
+Americano with Milk;30,86;Night;Wed;Jan
+Cocoa;35,76;Night;Wed;Jan
+Americano with Milk;30,86;Night;Wed;Jan
+Cappuccino;35,76;Night;Wed;Jan
+Latte;35,76;Night;Wed;Jan
+Americano with Milk;30,86;Night;Wed;Jan
+Cappuccino;35,76;Afternoon;Fri;Jan
+Cortado;25,96;Afternoon;Fri;Jan
+Cocoa;35,76;Afternoon;Fri;Jan
+Americano;25,96;Night;Fri;Jan
+Cocoa;35,76;Night;Fri;Jan
+Hot Chocolate;35,76;Night;Fri;Jan
+Latte;35,76;Night;Fri;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Cappuccino;35,76;Afternoon;Sat;Jan
+Americano;25,96;Afternoon;Sat;Jan
+Americano;25,96;Afternoon;Sun;Jan
+Espresso;21,06;Afternoon;Sun;Jan
+Cortado;25,96;Morning;Mon;Jan
+Americano;25,96;Morning;Mon;Jan
+Cappuccino;35,76;Afternoon;Mon;Jan
+Americano with Milk;30,86;Afternoon;Mon;Jan
+Americano with Milk;30,86;Afternoon;Mon;Jan
+Cortado;25,96;Afternoon;Mon;Jan
+Americano with Milk;30,86;Afternoon;Mon;Jan
+Latte;35,76;Night;Mon;Jan
+Latte;35,76;Night;Mon;Jan
+Latte;35,76;Night;Mon;Jan
+Latte;35,76;Morning;Tue;Jan
+Americano;25,96;Morning;Tue;Jan
+Americano with Milk;30,86;Morning;Tue;Jan
+Americano;25,96;Afternoon;Tue;Jan
+Cocoa;35,76;Afternoon;Tue;Jan
+Cortado;25,96;Afternoon;Tue;Jan
+Americano;25,96;Night;Tue;Jan
+Latte;35,76;Night;Tue;Jan
+Cappuccino;35,76;Night;Tue;Jan
+Americano;25,96;Morning;Wed;Jan
+Americano;25,96;Afternoon;Wed;Jan
+Americano with Milk;30,86;Night;Wed;Jan
+Espresso;21,06;Night;Wed;Jan
+Americano with Milk;30,86;Morning;Thu;Jan
+Americano with Milk;30,86;Morning;Thu;Jan
+Cortado;25,96;Morning;Thu;Jan
+Hot Chocolate;35,76;Afternoon;Thu;Jan
+Americano;25,96;Afternoon;Thu;Jan
+Americano with Milk;30,86;Afternoon;Thu;Jan
+Hot Chocolate;35,76;Night;Thu;Jan
+Americano with Milk;30,86;Night;Thu;Jan
+Cortado;25,96;Night;Thu;Jan
+Americano;25,96;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Americano with Milk;30,86;Morning;Fri;Jan
+Cocoa;35,76;Morning;Fri;Jan
+Cappuccino;35,76;Morning;Fri;Jan
+Cappuccino;35,76;Morning;Fri;Jan
+Latte;35,76;Afternoon;Fri;Jan
+Latte;35,76;Afternoon;Fri;Jan
+Cappuccino;35,76;Afternoon;Fri;Jan
+Americano with Milk;30,86;Afternoon;Fri;Jan
+Americano with Milk;30,86;Night;Fri;Jan
+Americano;25,96;Night;Fri;Jan
+Americano with Milk;30,86;Morning;Sat;Feb
+Americano with Milk;30,86;Morning;Sat;Feb
+Cortado;25,96;Afternoon;Sat;Feb
+Cortado;25,96;Afternoon;Sat;Feb
+Cappuccino;35,76;Afternoon;Sat;Feb
+Cappuccino;35,76;Afternoon;Sat;Feb
+Latte;35,76;Afternoon;Sat;Feb
+Cappuccino;35,76;Night;Sat;Feb
+Americano with Milk;30,86;Night;Sat;Feb
+Americano with Milk;30,86;Night;Sat;Feb
+Americano with Milk;30,86;Night;Sat;Feb
+Cappuccino;35,76;Morning;Sun;Feb
+Cappuccino;35,76;Morning;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Americano with Milk;30,86;Afternoon;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Cappuccino;35,76;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Espresso;21,06;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Cappuccino;35,76;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Cappuccino;35,76;Afternoon;Mon;Feb
+Cappuccino;35,76;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Cocoa;35,76;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Hot Chocolate;35,76;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Hot Chocolate;35,76;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Cocoa;35,76;Night;Mon;Feb
+Americano with Milk;30,86;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano with Milk;30,86;Afternoon;Tue;Feb
+Cortado;25,96;Afternoon;Tue;Feb
+Americano;25,96;Afternoon;Tue;Feb
+Americano with Milk;30,86;Afternoon;Tue;Feb
+Americano;25,96;Afternoon;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cortado;25,96;Night;Tue;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Espresso;21,06;Afternoon;Wed;Feb
+Espresso;21,06;Afternoon;Wed;Feb
+Cappuccino;35,76;Afternoon;Wed;Feb
+Cappuccino;35,76;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Cocoa;35,76;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Cocoa;35,76;Night;Wed;Feb
+Americano with Milk;30,86;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Hot Chocolate;35,76;Night;Wed;Feb
+Cocoa;35,76;Night;Wed;Feb
+Americano with Milk;30,86;Morning;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano with Milk;30,86;Afternoon;Thu;Feb
+Cappuccino;35,76;Afternoon;Thu;Feb
+Cocoa;35,76;Afternoon;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Cappuccino;35,76;Night;Thu;Feb
+Espresso;21,06;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Americano;25,96;Morning;Fri;Feb
+Cocoa;35,76;Afternoon;Fri;Feb
+Americano with Milk;30,86;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Cortado;25,96;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Hot Chocolate;35,76;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cortado;25,96;Night;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cortado;25,96;Night;Fri;Feb
+Americano;25,96;Morning;Sat;Feb
+Americano with Milk;30,86;Morning;Sat;Feb
+Cortado;25,96;Morning;Sat;Feb
+Americano;25,96;Morning;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Cocoa;35,76;Morning;Sun;Feb
+Americano with Milk;30,86;Morning;Sun;Feb
+Americano;25,96;Morning;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Cocoa;35,76;Afternoon;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Hot Chocolate;35,76;Afternoon;Sun;Feb
+Cocoa;35,76;Afternoon;Sun;Feb
+Cortado;25,96;Afternoon;Sun;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Americano with Milk;30,86;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Cappuccino;35,76;Afternoon;Mon;Feb
+Americano with Milk;30,86;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Hot Chocolate;35,76;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano with Milk;30,86;Morning;Tue;Feb
+Cocoa;35,76;Morning;Tue;Feb
+Hot Chocolate;35,76;Afternoon;Tue;Feb
+Americano with Milk;30,86;Afternoon;Tue;Feb
+Espresso;21,06;Afternoon;Tue;Feb
+Latte;35,76;Night;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Americano;25,96;Night;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Latte;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cappuccino;35,76;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Cocoa;35,76;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Americano;25,96;Night;Wed;Feb
+Latte;35,76;Night;Wed;Feb
+Cocoa;35,76;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Americano with Milk;30,86;Morning;Thu;Feb
+Americano;25,96;Morning;Thu;Feb
+Espresso;21,06;Morning;Thu;Feb
+Cocoa;35,76;Morning;Thu;Feb
+Americano with Milk;30,86;Morning;Thu;Feb
+Americano with Milk;30,86;Morning;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano with Milk;30,86;Night;Thu;Feb
+Americano with Milk;30,86;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Cappuccino;35,76;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Americano;25,96;Morning;Fri;Feb
+Hot Chocolate;35,76;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Espresso;21,06;Afternoon;Fri;Feb
+Americano with Milk;30,86;Afternoon;Fri;Feb
+Cappuccino;35,76;Afternoon;Fri;Feb
+Cappuccino;35,76;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Hot Chocolate;35,76;Afternoon;Fri;Feb
+Cappuccino;35,76;Afternoon;Fri;Feb
+Americano;25,96;Night;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Espresso;21,06;Night;Fri;Feb
+Americano with Milk;30,86;Night;Fri;Feb
+Americano;25,96;Night;Fri;Feb
+Cappuccino;35,76;Morning;Sat;Feb
+Cappuccino;35,76;Afternoon;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Americano with Milk;30,86;Afternoon;Sat;Feb
+Americano with Milk;30,86;Afternoon;Sat;Feb
+Cappuccino;35,76;Afternoon;Sat;Feb
+Americano;25,96;Afternoon;Sat;Feb
+Hot Chocolate;35,76;Afternoon;Sat;Feb
+Hot Chocolate;35,76;Afternoon;Sat;Feb
+Americano;25,96;Morning;Sun;Feb
+Americano;25,96;Morning;Sun;Feb
+Americano with Milk;30,86;Morning;Sun;Feb
+Hot Chocolate;35,76;Morning;Sun;Feb
+Americano;25,96;Morning;Sun;Feb
+Hot Chocolate;35,76;Afternoon;Sun;Feb
+Latte;35,76;Afternoon;Sun;Feb
+Hot Chocolate;35,76;Night;Sun;Feb
+Americano with Milk;30,86;Night;Sun;Feb
+Americano with Milk;30,86;Night;Sun;Feb
+Cappuccino;35,76;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Hot Chocolate;35,76;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Espresso;21,06;Morning;Mon;Feb
+Cappuccino;35,76;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Americano with Milk;30,86;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Espresso;21,06;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano with Milk;30,86;Morning;Tue;Feb
+Americano with Milk;30,86;Afternoon;Tue;Feb
+Cocoa;35,76;Afternoon;Tue;Feb
+Americano;25,96;Afternoon;Tue;Feb
+Americano with Milk;30,86;Afternoon;Tue;Feb
+Hot Chocolate;35,76;Night;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Espresso;21,06;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Hot Chocolate;35,76;Night;Tue;Feb
+Americano with Milk;30,86;Night;Tue;Feb
+Cappuccino;35,76;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Cappuccino;35,76;Morning;Wed;Feb
+Americano;25,96;Morning;Wed;Feb
+Hot Chocolate;35,76;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Cocoa;35,76;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Cappuccino;35,76;Afternoon;Wed;Feb
+Americano;25,96;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Americano with Milk;30,86;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Latte;35,76;Night;Wed;Feb
+Cocoa;35,76;Night;Wed;Feb
+Hot Chocolate;35,76;Night;Wed;Feb
+Latte;35,76;Night;Wed;Feb
+Cocoa;35,76;Night;Wed;Feb
+Cappuccino;35,76;Morning;Thu;Feb
+Americano;25,96;Morning;Thu;Feb
+Cappuccino;35,76;Morning;Thu;Feb
+Americano;25,96;Morning;Thu;Feb
+Americano;25,96;Morning;Thu;Feb
+Americano;25,96;Morning;Thu;Feb
+Americano with Milk;30,86;Afternoon;Thu;Feb
+Latte;35,76;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Espresso;21,06;Afternoon;Thu;Feb
+Cappuccino;35,76;Afternoon;Thu;Feb
+Cappuccino;35,76;Afternoon;Thu;Feb
+Hot Chocolate;35,76;Night;Thu;Feb
+Americano;25,96;Night;Thu;Feb
+Americano;25,96;Night;Thu;Feb
+Hot Chocolate;35,76;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Americano;25,96;Morning;Fri;Feb
+Latte;35,76;Morning;Fri;Feb
+Cappuccino;35,76;Morning;Fri;Feb
+Espresso;21,06;Morning;Fri;Feb
+Americano;25,96;Morning;Fri;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Cappuccino;35,76;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Cocoa;35,76;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Hot Chocolate;35,76;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cocoa;35,76;Night;Fri;Feb
+Cappuccino;35,76;Night;Fri;Feb
+Hot Chocolate;35,76;Morning;Sat;Feb
+Americano;25,96;Morning;Sat;Feb
+Americano;25,96;Morning;Sat;Feb
+Espresso;21,06;Afternoon;Sat;Feb
+Americano with Milk;30,86;Afternoon;Sat;Feb
+Americano with Milk;30,86;Morning;Sun;Feb
+Americano with Milk;30,86;Afternoon;Sun;Feb
+Americano with Milk;30,86;Afternoon;Sun;Feb
+Cappuccino;35,76;Afternoon;Sun;Feb
+Cocoa;35,76;Afternoon;Sun;Feb
+Americano;25,96;Night;Sun;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Latte;35,76;Morning;Mon;Feb
+Americano;25,96;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Americano with Milk;30,86;Morning;Mon;Feb
+Cocoa;35,76;Morning;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Americano with Milk;30,86;Afternoon;Mon;Feb
+Cocoa;35,76;Afternoon;Mon;Feb
+Cappuccino;35,76;Afternoon;Mon;Feb
+Latte;35,76;Afternoon;Mon;Feb
+Americano;25,96;Afternoon;Mon;Feb
+Americano;25,96;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Americano with Milk;30,86;Night;Mon;Feb
+Hot Chocolate;35,76;Night;Mon;Feb
+Latte;35,76;Night;Mon;Feb
+Cocoa;35,76;Night;Mon;Feb
+Cocoa;35,76;Night;Mon;Feb
+Americano with Milk;30,86;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano with Milk;30,86;Morning;Tue;Feb
+Espresso;21,06;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Americano;25,96;Morning;Tue;Feb
+Cappuccino;35,76;Afternoon;Tue;Feb
+Cappuccino;35,76;Afternoon;Tue;Feb
+Americano;25,96;Afternoon;Tue;Feb
+Americano;25,96;Afternoon;Tue;Feb
+Cocoa;35,76;Night;Tue;Feb
+Cappuccino;35,76;Night;Tue;Feb
+Americano;25,96;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Americano with Milk;30,86;Morning;Wed;Feb
+Hot Chocolate;35,76;Morning;Wed;Feb
+Cocoa;35,76;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Cortado;25,96;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Americano;25,96;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Hot Chocolate;35,76;Afternoon;Wed;Feb
+Latte;35,76;Afternoon;Wed;Feb
+Americano with Milk;30,86;Night;Wed;Feb
+Latte;35,76;Night;Wed;Feb
+Cappuccino;35,76;Night;Wed;Feb
+Cappuccino;35,76;Morning;Thu;Feb
+Cappuccino;35,76;Morning;Thu;Feb
+Espresso;21,06;Morning;Thu;Feb
+Cocoa;35,76;Morning;Thu;Feb
+Cocoa;35,76;Afternoon;Thu;Feb
+Americano with Milk;30,86;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Latte;35,76;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano;25,96;Afternoon;Thu;Feb
+Americano;25,96;Night;Thu;Feb
+Americano;25,96;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Cappuccino;35,76;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Cocoa;35,76;Night;Thu;Feb
+Latte;35,76;Night;Thu;Feb
+Cappuccino;35,76;Night;Thu;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Cappuccino;35,76;Morning;Fri;Feb
+Espresso;21,06;Morning;Fri;Feb
+Americano with Milk;30,86;Morning;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Latte;35,76;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Cocoa;35,76;Afternoon;Fri;Feb
+Americano;25,96;Afternoon;Fri;Feb
+Latte;35,76;Night;Fri;Feb
+Americano with Milk;30,86;Night;Fri;Feb
+Americano;25,96;Night;Fri;Feb
+Americano;25,96;Night;Fri;Feb
+Latte;35,76;Night;Fri;Feb
+Cappuccino;35,76;Morning;Sat;Mar
+Americano;25,96;Morning;Sat;Mar
+Americano;25,96;Morning;Sat;Mar
+Latte;35,76;Afternoon;Sat;Mar
+Americano;25,96;Afternoon;Sat;Mar
+Americano with Milk;30,86;Afternoon;Sat;Mar
+Cappuccino;35,76;Afternoon;Sat;Mar
+Americano;25,96;Night;Sat;Mar
+Cocoa;35,76;Morning;Sun;Mar
+Latte;35,76;Afternoon;Sun;Mar
+Americano with Milk;30,86;Afternoon;Sun;Mar
+Americano with Milk;30,86;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Cappuccino;35,76;Morning;Mon;Mar
+Cocoa;35,76;Morning;Mon;Mar
+Latte;35,76;Morning;Mon;Mar
+Hot Chocolate;35,76;Morning;Mon;Mar
+Hot Chocolate;35,76;Morning;Mon;Mar
+Cappuccino;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Cocoa;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Cappuccino;35,76;Afternoon;Mon;Mar
+Cappuccino;35,76;Afternoon;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Americano with Milk;30,86;Night;Mon;Mar
+Americano;25,96;Night;Mon;Mar
+Hot Chocolate;35,76;Night;Mon;Mar
+Americano;25,96;Night;Mon;Mar
+Hot Chocolate;35,76;Night;Mon;Mar
+Hot Chocolate;35,76;Night;Mon;Mar
+Americano with Milk;30,86;Night;Mon;Mar
+Latte;35,76;Night;Mon;Mar
+Cappuccino;35,76;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano with Milk;30,86;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano with Milk;30,86;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Cocoa;35,76;Afternoon;Tue;Mar
+Americano;25,96;Afternoon;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Latte;35,76;Night;Tue;Mar
+Latte;35,76;Night;Tue;Mar
+Americano with Milk;30,86;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Cappuccino;35,76;Morning;Wed;Mar
+Americano with Milk;30,86;Morning;Wed;Mar
+Cappuccino;35,76;Morning;Wed;Mar
+Cocoa;35,76;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Hot Chocolate;35,76;Afternoon;Wed;Mar
+Americano with Milk;30,86;Night;Wed;Mar
+Espresso;21,06;Night;Wed;Mar
+Latte;35,76;Night;Wed;Mar
+Cappuccino;35,76;Night;Wed;Mar
+Cocoa;35,76;Night;Wed;Mar
+Hot Chocolate;35,76;Morning;Thu;Mar
+Espresso;21,06;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Cappuccino;35,76;Morning;Thu;Mar
+Latte;35,76;Afternoon;Thu;Mar
+Americano with Milk;30,86;Afternoon;Thu;Mar
+Cocoa;35,76;Night;Thu;Mar
+Cappuccino;35,76;Night;Thu;Mar
+Americano with Milk;30,86;Night;Thu;Mar
+Cappuccino;35,76;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Hot Chocolate;35,76;Morning;Fri;Mar
+Americano with Milk;30,86;Morning;Fri;Mar
+Americano with Milk;30,86;Morning;Fri;Mar
+Cocoa;35,76;Morning;Fri;Mar
+Cocoa;35,76;Morning;Fri;Mar
+Americano with Milk;30,86;Afternoon;Fri;Mar
+Hot Chocolate;35,76;Afternoon;Fri;Mar
+Americano;25,96;Afternoon;Fri;Mar
+Cappuccino;35,76;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Hot Chocolate;35,76;Night;Fri;Mar
+Americano with Milk;30,86;Morning;Sat;Mar
+Americano with Milk;30,86;Morning;Sat;Mar
+Americano;25,96;Morning;Sat;Mar
+Americano;25,96;Morning;Sat;Mar
+Americano;25,96;Morning;Sat;Mar
+Americano with Milk;30,86;Afternoon;Sat;Mar
+Americano;25,96;Afternoon;Sat;Mar
+Cappuccino;35,76;Afternoon;Sat;Mar
+Espresso;21,06;Morning;Sun;Mar
+Americano with Milk;30,86;Morning;Sun;Mar
+Cappuccino;35,76;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Cappuccino;35,76;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Americano with Milk;30,86;Afternoon;Sun;Mar
+Cocoa;35,76;Afternoon;Sun;Mar
+Americano;25,96;Morning;Mon;Mar
+Latte;35,76;Morning;Mon;Mar
+Americano with Milk;30,86;Morning;Mon;Mar
+Hot Chocolate;35,76;Morning;Mon;Mar
+Cocoa;35,76;Morning;Mon;Mar
+Hot Chocolate;35,76;Morning;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Hot Chocolate;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Cappuccino;35,76;Afternoon;Mon;Mar
+Americano with Milk;30,86;Afternoon;Mon;Mar
+Americano;25,96;Night;Mon;Mar
+Latte;35,76;Night;Mon;Mar
+Latte;35,76;Night;Mon;Mar
+Americano with Milk;30,86;Night;Mon;Mar
+Americano;25,96;Morning;Tue;Mar
+Cappuccino;35,76;Morning;Tue;Mar
+Latte;35,76;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Americano;25,96;Afternoon;Tue;Mar
+Americano;25,96;Afternoon;Tue;Mar
+Hot Chocolate;35,76;Afternoon;Tue;Mar
+Cocoa;35,76;Afternoon;Tue;Mar
+Hot Chocolate;35,76;Afternoon;Tue;Mar
+Cappuccino;35,76;Night;Tue;Mar
+Americano with Milk;30,86;Night;Tue;Mar
+Latte;35,76;Night;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Cocoa;35,76;Morning;Wed;Mar
+Americano with Milk;30,86;Morning;Wed;Mar
+Cappuccino;35,76;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Hot Chocolate;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Cappuccino;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Americano;25,96;Night;Wed;Mar
+Cocoa;35,76;Night;Wed;Mar
+Americano;25,96;Night;Wed;Mar
+Cappuccino;35,76;Night;Wed;Mar
+Americano;25,96;Night;Wed;Mar
+Cappuccino;35,76;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Latte;35,76;Morning;Thu;Mar
+Espresso;21,06;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Latte;35,76;Afternoon;Thu;Mar
+Americano with Milk;30,86;Afternoon;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Cappuccino;35,76;Night;Thu;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano with Milk;30,86;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Latte;35,76;Morning;Fri;Mar
+Espresso;21,06;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Latte;35,76;Morning;Fri;Mar
+Cappuccino;35,76;Morning;Fri;Mar
+Americano;25,96;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Americano;25,96;Afternoon;Fri;Mar
+Cocoa;35,76;Afternoon;Fri;Mar
+Cocoa;35,76;Afternoon;Fri;Mar
+Cocoa;35,76;Afternoon;Fri;Mar
+Americano;25,96;Night;Fri;Mar
+Americano;25,96;Night;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Americano;25,96;Night;Fri;Mar
+Americano;25,96;Night;Fri;Mar
+Americano with Milk;30,86;Morning;Sat;Mar
+Cappuccino;35,76;Morning;Sat;Mar
+Americano;25,96;Afternoon;Sat;Mar
+Cappuccino;35,76;Night;Sat;Mar
+Americano with Milk;30,86;Night;Sat;Mar
+Americano with Milk;30,86;Night;Sat;Mar
+Cappuccino;35,76;Night;Sat;Mar
+Cappuccino;35,76;Morning;Sun;Mar
+Americano with Milk;30,86;Morning;Sun;Mar
+Latte;35,76;Morning;Sun;Mar
+Hot Chocolate;35,76;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Americano;25,96;Morning;Mon;Mar
+Americano;25,96;Morning;Mon;Mar
+Americano;25,96;Morning;Mon;Mar
+Americano with Milk;30,86;Morning;Mon;Mar
+Americano;25,96;Morning;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Cocoa;35,76;Afternoon;Mon;Mar
+Cocoa;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Cappuccino;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Latte;35,76;Afternoon;Mon;Mar
+Americano;25,96;Afternoon;Mon;Mar
+Americano with Milk;30,86;Morning;Tue;Mar
+Latte;35,76;Morning;Tue;Mar
+Latte;35,76;Morning;Tue;Mar
+Americano;25,96;Morning;Tue;Mar
+Hot Chocolate;35,76;Morning;Tue;Mar
+Hot Chocolate;35,76;Morning;Tue;Mar
+Americano with Milk;30,86;Afternoon;Tue;Mar
+Americano;25,96;Afternoon;Tue;Mar
+Americano with Milk;30,86;Afternoon;Tue;Mar
+Americano;25,96;Afternoon;Tue;Mar
+Latte;35,76;Afternoon;Tue;Mar
+Espresso;21,06;Afternoon;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Cocoa;35,76;Night;Tue;Mar
+Latte;35,76;Night;Tue;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Cappuccino;35,76;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Hot Chocolate;35,76;Morning;Wed;Mar
+Americano;25,96;Morning;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Latte;35,76;Afternoon;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Cappuccino;35,76;Afternoon;Wed;Mar
+Cappuccino;35,76;Afternoon;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Americano;25,96;Afternoon;Wed;Mar
+Cocoa;35,76;Night;Wed;Mar
+Americano with Milk;30,86;Night;Wed;Mar
+Americano with Milk;30,86;Night;Wed;Mar
+Cortado;25,96;Night;Wed;Mar
+Espresso;21,06;Night;Wed;Mar
+Espresso;21,06;Night;Wed;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano with Milk;30,86;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Americano;25,96;Morning;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Espresso;21,06;Afternoon;Thu;Mar
+Cortado;25,96;Afternoon;Thu;Mar
+Cappuccino;35,76;Afternoon;Thu;Mar
+Cappuccino;35,76;Afternoon;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Americano;25,96;Afternoon;Thu;Mar
+Cappuccino;35,76;Afternoon;Thu;Mar
+Americano;25,96;Night;Thu;Mar
+Hot Chocolate;35,76;Night;Thu;Mar
+Cocoa;35,76;Night;Thu;Mar
+Cappuccino;35,76;Night;Thu;Mar
+Latte;35,76;Night;Thu;Mar
+Americano with Milk;30,86;Morning;Fri;Mar
+Americano with Milk;30,86;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Cappuccino;35,76;Morning;Fri;Mar
+Americano;25,96;Morning;Fri;Mar
+Latte;35,76;Morning;Fri;Mar
+Americano;25,96;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Cappuccino;35,76;Afternoon;Fri;Mar
+Cappuccino;35,76;Afternoon;Fri;Mar
+Americano;25,96;Afternoon;Fri;Mar
+Latte;35,76;Afternoon;Fri;Mar
+Cappuccino;35,76;Afternoon;Fri;Mar
+Hot Chocolate;35,76;Night;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Latte;35,76;Night;Fri;Mar
+Americano;25,96;Night;Fri;Mar
+Americano with Milk;30,86;Morning;Sat;Mar
+Americano with Milk;30,86;Morning;Sat;Mar
+Hot Chocolate;35,76;Morning;Sat;Mar
+Cocoa;35,76;Morning;Sat;Mar
+Americano with Milk;30,86;Afternoon;Sat;Mar
+Americano;25,96;Afternoon;Sat;Mar
+Americano;25,96;Afternoon;Sat;Mar
+Americano with Milk;30,86;Afternoon;Sat;Mar
+Espresso;21,06;Afternoon;Sat;Mar
+Latte;35,76;Afternoon;Sat;Mar
+Americano with Milk;30,86;Night;Sat;Mar
+Americano with Milk;30,86;Night;Sat;Mar
+Latte;35,76;Morning;Sun;Mar
+Cappuccino;35,76;Morning;Sun;Mar
+Cocoa;35,76;Afternoon;Sun;Mar
+Cocoa;35,76;Afternoon;Sun;Mar
+Americano;25,96;Afternoon;Sun;Mar
+Latte;35,76;Night;Sun;Mar
